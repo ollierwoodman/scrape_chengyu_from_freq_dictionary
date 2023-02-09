@@ -16,7 +16,7 @@ Before writing the script, the Chengyu frequency dictionary [500 Common Chinese 
 
 You can download the JSON file directly from the repo.
 
-The copyright to the examples, definitions, etc. belong to the [original authors](https://doi.org/10.4324/9780203839140) and hence your usage of the dataset should be appropriately cited. 
+The copyright to the examples, definitions, etc. belong to the [original authors](https://doi.org/10.4324/9780203839140) and hence your usage of the dataset should be appropriately cited. The 500 chengyu themselves are not eligible for copyright and hence can be used without citation.
 
 ### Installing
 

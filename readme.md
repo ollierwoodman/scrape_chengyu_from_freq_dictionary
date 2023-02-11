@@ -18,6 +18,10 @@ You can download the JSON file directly from the repo.
 
 The copyright to the examples, definitions, etc. belong to the [original authors](https://doi.org/10.4324/9780203839140) and hence your usage of the dataset should be appropriately cited. The 500 chengyu themselves are not eligible for copyright and hence can be used without citation.
 
+### Format of the JSON file
+
+<!-- TODO detail the format of the JSON file -->
+
 ### Installing
 
 1. Install Beautiful Soup 4:
@@ -32,6 +36,10 @@ Edit the constants at the top of the `main.py` Python file and run the script
 ```
 python ./main.py
 ```
+
+## Known limitations
+
+- Some notes refer to images that were not scraped
 
 ## Dataset source
 

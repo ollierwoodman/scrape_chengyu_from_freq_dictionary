@@ -20,7 +20,39 @@ The copyright to the examples, definitions, etc. belong to the [original authors
 
 ### Format of the JSON file
 
-<!-- TODO detail the format of the JSON file -->
+```
+{
+  "entries": [
+    {
+      "phrase": {
+        "zhCN": "Simplified Chinese phrase",
+        "zhHK": "Traditional Chinese phrase",
+        "zhPY": "Pinyin transcription"
+      },
+      "translations": {
+        "enGB": "Definition and explanation written in English"
+      },
+      "examples": [
+        {
+          "zhCN": "Example in simplified Chinese",
+          "zhPY": "Pinyin transcription",
+          "enGB": "English translation of example"
+        },
+        {
+          "zhCN": "Another Example in simplified Chinese",
+          "zhPY": "Pinyin Transcription",
+          "enGB": "English translation of second example"
+        }
+      ]
+    },
+    ...
+  ]  
+  "citation": {
+    "link": "Link to the source material's DOI permalink", 
+    "apa": "Reference cited in APA format"
+  }
+}
+```
 
 ### Installing
 

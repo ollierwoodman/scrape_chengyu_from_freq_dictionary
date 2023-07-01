@@ -97,7 +97,7 @@ for entry in entry_list:
         PINYIN_KEY_NAME: re.search("\)\s*(.+)\Z", entry[0].a.contents[0]).group(1),
     }
     
-    current_entry['translations'] = {
+    current_entry['definition'] = {
         ENGLISH_KEY_NAME: entry[1].contents[0].string,
     }
     

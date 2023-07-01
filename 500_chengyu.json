@@ -6,7 +6,7 @@
         "zhHK": "實事求是", 
         "zhPY": "shí shì qiú shì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "实 means 'actual,' 事 means 'situation,' 求 means 'seek,' and 是 means 'original way.' The meaning of this idiom is 'to handle matters according to their actual situation.' This idiom is conventionally translated as 'seek truth from facts.'"
       }, 
       "examples": [
@@ -28,7 +28,7 @@
         "zhHK": "艱苦奮鬥", 
         "zhPY": "jiān kŭ fèn dòu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "艰苦 means 'difficult' and 奋斗 means 'struggle.' The meaning of the whole idiom is 'difficult struggle, arduous struggle.'"
       }, 
       "examples": [
@@ -50,7 +50,7 @@
         "zhHK": "千方百計", 
         "zhPY": "qiān fāng băi jì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'by every possible means,' with a freer translation being 'by hook or by crook.'"
       }, 
       "examples": [
@@ -72,7 +72,7 @@
         "zhHK": "全心全意", 
         "zhPY": "quán xīn quán yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'complete heart complete intention,' with a freer translation being 'with all one's heart and all one's soul, wholeheartedly.'"
       }, 
       "examples": [
@@ -94,7 +94,7 @@
         "zhHK": "無論如何", 
         "zhPY": "wú lùn rú hé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "无论 means 'no matter' and 如何 means 'how?' The meaning of the whole idiom is 'no matter how, no matter what, in any event, in any case.'"
       }, 
       "examples": [
@@ -116,7 +116,7 @@
         "zhHK": "前所未有", 
         "zhPY": "qián suŏ wèi yŏu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "未 means 'did not, not yet.' The meaning of the whole idiom is 'never happened before in the past, unprecedented.'"
       }, 
       "examples": [
@@ -138,7 +138,7 @@
         "zhHK": "堅定不移", 
         "zhPY": "jiān dìng bù yí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "坚定 means 'firm, steadfast' and 移 means 'move, change.' A literal translation of the whole idiom is 'firm and unchanging.' Freer translations include 'firm and unswerving, steadfast and unchanging, resolute.'"
       }, 
       "examples": [
@@ -160,7 +160,7 @@
         "zhHK": "引人注目", 
         "zhPY": "yĭn rén zhù mù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "引 means 'attract' and 注目 means 'fix one's eyes on, gaze at.' A literal translation would be 'attract other people's attention.' Freer translations include 'draw attention, noticeable, conspicuous.'"
       }, 
       "examples": [
@@ -182,7 +182,7 @@
         "zhHK": "因地制宜", 
         "zhPY": "yīn dì zhì yí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "因 here means 'according to,' 地 means 'locality,' 制 means 'formulate,' and 宜 means 'appropriate measures.' A literal translation of the whole idiom is 'according to the locality formulate appropriate measures,' with a freer translation being 'adapt to local conditions.'"
       }, 
       "examples": [
@@ -204,7 +204,7 @@
         "zhHK": "自相矛盾", 
         "zhPY": "zì xiāng máo dùn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "自 means 'self,' 相 means 'mutually,' 矛 means 'spear,' and 盾 means 'shield.' The connotation is 'self-contradictory.'"
       }, 
       "examples": [
@@ -226,7 +226,7 @@
         "zhHK": "成千上萬", 
         "zhPY": "chéng qiān shàng wàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "成 here means 'becoming' and 上 mean 'surpassing.' The meaning of the whole idiom is 'tens of thousands of.'"
       }, 
       "examples": [
@@ -248,7 +248,7 @@
         "zhHK": "卓有成效", 
         "zhPY": "zhuó yŏu chéng xiào"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "卓 means 'outstanding, excellent' and 成效 means 'effect, result.' A literal translation of the whole idiom is 'outstanding and having effect,' with freer translations including 'with outstanding results, highly effective.'"
       }, 
       "examples": [
@@ -270,7 +270,7 @@
         "zhHK": "當務之急", 
         "zhPY": "dāng wù zhī jí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "当 means 'should,' 务 means 'pursue,' and 急 means 'an urgent matter.' The literal meaning is 'an urgent matter that should be pursued.' The whole idiom means 'a matter of great urgency.'"
       }, 
       "examples": [
@@ -292,7 +292,7 @@
         "zhHK": "獨立自主", 
         "zhPY": "dú lì zì zhŭ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "独立 means 'independent' and 自主 means 'be one's own master.' The whole idiom can be translated as 'independent and being one's own master' or 'independent and possessing the right of self-determination.'"
       }, 
       "examples": [
@@ -314,7 +314,7 @@
         "zhHK": "脱穎而出", 
         "zhPY": "tuō yĭng ér chū"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "脱 means 'break free from, escape from' and 颖 means 'an awn of wheat' (i.e., the bristle-like fiber in the wheat). This refers to the fibers that often stick through a sack of wheat. By metaphor, this has come to mean 'talent being fully exposed, talent revealing itself.'"
       }, 
       "examples": [
@@ -336,7 +336,7 @@
         "zhHK": "無可奈何", 
         "zhPY": "wú kě nài hé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'helpless; have no alternative; there's no way out.'"
       }, 
       "examples": [
@@ -358,7 +358,7 @@
         "zhHK": "莫名其妙", 
         "zhPY": "mò míng qí miào"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'no one can explain it; unable to make head or tail of something; be baffled.'"
       }, 
       "examples": [
@@ -380,7 +380,7 @@
         "zhHK": "自力更生", 
         "zhPY": "zì lì gēng shēng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "自力 means 'rely on one's own efforts' and 更生 means 'revive, rejuvenate.' The meaning of the whole idiom is 'one's own strength changes one's life - rely on one's own efforts.'"
       }, 
       "examples": [
@@ -402,7 +402,7 @@
         "zhHK": "一如既往", 
         "zhPY": "yì rú jì wăng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "既往 means 'formerly, in the past.' The meaning of the whole idiom is 'exactly the same as in the past, as before.'"
       }, 
       "examples": [
@@ -424,7 +424,7 @@
         "zhHK": "撲朔迷離", 
         "zhPY": "pū shuò mí lí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "扑朔 means 'move all over the place' and 迷离 means 'dim, blurred.' The original meaning of this idiom had to do with the difficulty of distinguishing between male and female rabbits (see note below). The extended meaning is 'things are intricate and complicated and difficult to distinguish clearly.' A freer translation is 'confusing, hard to distinguish, all mixed up.'"
       }, 
       "examples": [
@@ -446,7 +446,7 @@
         "zhHK": "不可思議", 
         "zhPY": "bù kě sī yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The whole idiom means 'unthinkable, inconceivable, unimaginable.'"
       }, 
       "examples": [
@@ -468,7 +468,7 @@
         "zhHK": "堅持不懈", 
         "zhPY": "jiān chí bú xiè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "坚持 means 'persist' and 懈 means 'relax, let up.' A literal translation of this idiom is 'persist and not relax.' Freer translations are 'persist, persevering, unremitting.'"
       }, 
       "examples": [
@@ -490,7 +490,7 @@
         "zhHK": "供不應求", 
         "zhPY": "gōng bù yìng qiú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "供 means 'supply,' 应 means 'respond to,' and 求 means 'demand.' A literal translation of the whole idiom is 'supply does not respond to demand,' with freer translations being 'supply does not meet demand' and 'in short supply.'"
       }, 
       "examples": [
@@ -512,7 +512,7 @@
         "zhHK": "行之有效", 
         "zhPY": "xíng zhī yŏu xiào"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "行 means 'put into practice,' 之 means 'it,' and 效 means 'effect, efficiency.' A literal translation of the whole idiom is 'put it into practice having effect or efficiency.' Freer translations include 'implement with efficiency' and 'efficient.'"
       }, 
       "examples": [
@@ -534,7 +534,7 @@
         "zhHK": "衆所周知", 
         "zhPY": "zhòng suŏ zhōu zhī"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'as is known to all; it is well-known that; it is common knowledge that….'"
       }, 
       "examples": [
@@ -556,7 +556,7 @@
         "zhHK": "全力以赴", 
         "zhPY": "quán lì yĭ fù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "赴 means 'go.' A literal translation is 'with all one's strength go to some place,' with a freer translation being 'put all one's energy into something, spare no effort.'"
       }, 
       "examples": [
@@ -578,7 +578,7 @@
         "zhHK": "理所當然", 
         "zhPY": "lĭ suŏ dāng rán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "理 means ' (according to) reason' and 当然 means 'should be like this.' The meaning of the whole idiom is 'of course, naturally, needless to say, it is only right and proper that….'"
       }, 
       "examples": [
@@ -600,7 +600,7 @@
         "zhHK": "四面八方", 
         "zhPY": "sì miàn bā fāng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "面 here means 'side' and 方 means 'direction.' The literal meaning of this idiom is 'the four sides and the eight directions,' with a freer translation being 'all directions, all around, far and wide.'"
       }, 
       "examples": [
@@ -622,7 +622,7 @@
         "zhHK": "興致勃勃", 
         "zhPY": "xìng zhì bó bó"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "兴致 means 'interest' and 勃勃 means 'full of life, exuberant.' The meaning of the whole idiom is 'full of interest and enthusiasm.'"
       }, 
       "examples": [
@@ -644,7 +644,7 @@
         "zhHK": "一鳴驚人", 
         "zhPY": "yì míng jīng rén"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "鸣 means 'cry (of birds) ' and 惊 means 'surprise.' A literal translation of the whole idiom is 'one cry surprises others,' with freer translations being 'amaze the world with a single brilliant feat, achieve overnight success.'"
       }, 
       "examples": [
@@ -666,7 +666,7 @@
         "zhHK": "想方設法", 
         "zhPY": "xiăng fāng shè fă"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "方 means 'method,' 设 means 'presume, suppose,' and 法 means 'way.' A literal translation is 'think of methods and presume ways,' with a freer translation being 'think of all kinds of ways, try every possible means.'"
       }, 
       "examples": [
@@ -688,7 +688,7 @@
         "zhHK": "千家萬戶", 
         "zhPY": "qiān jiā wàn hù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "千 means 'thousand,' 家 means 'home,' 万 means 'ten thousand,' and 户 means 'household.' The literal translation of this idiom is 'thousand families ten thousand households,' with freer translations being 'innumerable households, every family.'"
       }, 
       "examples": [
@@ -710,7 +710,7 @@
         "zhHK": "舉足輕重", 
         "zhPY": "jŭ zú qīng zhòng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "举 means 'raise,' 足 means 'foot,' 轻 means 'light,' and 重 means 'heavy.' A literal translation of the whole idiom is 'raise one's feet and influence lightness and heaviness,' with freer translations being 'play a decisive role, be pivotal in importance.'"
       }, 
       "examples": [
@@ -732,7 +732,7 @@
         "zhHK": "見義勇為", 
         "zhPY": "jiàn yì yŏng wéi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "义 means 'righteousness,' 勇 means 'courage,' and 为 means 'do, make.' The meaning of the whole idiom is 'see what is right and have the courage to do it.'"
       }, 
       "examples": [
@@ -754,7 +754,7 @@
         "zhHK": "舉世矚目", 
         "zhPY": "jŭ shì zhŭ mù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "举 here means 'whole,' 世 means 'world,' 瞩 means 'gaze at,' and 目 means 'eyes.' A literal translation of the whole idiom is 'the whole world gazes at with the eyes,' with freer translations including 'the entire world focuses its attention on' and 'attract world-wide attention.'"
       }, 
       "examples": [
@@ -776,7 +776,7 @@
         "zhHK": "小心翼翼", 
         "zhPY": "xiăo xīn yì yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "翼翼 means 'cautious.' A literal translation of this idiom is 'careful and cautious.' It is often used adverbially in the sense 'cautiously, carefully.'"
       }, 
       "examples": [
@@ -798,7 +798,7 @@
         "zhHK": "源遠流長", 
         "zhPY": "yuán yuăn liú cháng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "源 means 'source,' 远 means 'distant,' 流 means 'the length the water flows,' and 长 means 'long.' A literal translation is 'the source (of a stream) is distant and (the water) flows a long distance.' Freer translations include 'age-old, long-standing, well-established.'"
       }, 
       "examples": [
@@ -820,7 +820,7 @@
         "zhHK": "弄虛作假", 
         "zhPY": "nòng xū zuō jiă"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "弄 here means 'use,' 虚 means 'empty,' 作 means 'fabricate,' and 假 means 'false.' A literal translation of the whole idiom is 'use emptiness to create a false appearance,' with a freer translation being 'use trickery or deception to create a false appearance.'"
       }, 
       "examples": [
@@ -842,7 +842,7 @@
         "zhHK": "自言自語", 
         "zhPY": "zì yán zì yŭ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of the whole idiom is 'self talk self say,' with freer translations being 'talk to oneself, think out loud.'"
       }, 
       "examples": [
@@ -864,7 +864,7 @@
         "zhHK": "紙上談兵", 
         "zhPY": "zhĭ shàng tán bīng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "兵 here means 'military force.' A literal translation of this idiom is 'on paper speak of warfare.' The extended meaning is 'engage in empty talk that does nothing to solve problems.' One freer translation is 'be an armchair strategist.'"
       }, 
       "examples": [
@@ -886,7 +886,7 @@
         "zhHK": "名副其實", 
         "zhPY": "míng fù qí shí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "副 means 'correspond to,' 其 means 'its,' and 实 means 'reality, truth.' The literal meaning is 'the name corresponds to its reality,' with a freer translation being 'worthy of the name or reputation.'"
       }, 
       "examples": [
@@ -908,7 +908,7 @@
         "zhHK": "日新月異", 
         "zhPY": "rì xīn yuè yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "异 means 'different.' The literal translation of this idiom is 'day new month different,' with a freer translation being 'change rapidly with each new day.'"
       }, 
       "examples": [
@@ -930,7 +930,7 @@
         "zhHK": "得天獨厚", 
         "zhPY": "dé tiān dú hòu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "得 means 'obtain,' 天 means 'nature,' 独 means 'by oneself,' and 厚 means 'favorable.' A literal translation of the whole idiom is 'by oneself obtain favorable natural conditions,' with freer translations being 'enjoy exceptional advantages' and 'in a favorable position.'"
       }, 
       "examples": [
@@ -952,7 +952,7 @@
         "zhHK": "情不自禁", 
         "zhPY": "qíng bú zì jín"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "情 means 'emotions' and 禁 means 'control, restrain.' A literal translation is 'emotions not by oneself restrain.' The meaning of the whole idiom is 'unable to restrain one's emotions, excited, cannot help.'"
       }, 
       "examples": [
@@ -974,7 +974,7 @@
         "zhHK": "不以爲然", 
         "zhPY": "bù yĭ wéi rán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "然 means 'like that.' 不以为然 means 不以之为然 'not take it to be like that.' A freer translation would be 'think otherwise, take exception to, disapprove.'"
       }, 
       "examples": [
@@ -996,7 +996,7 @@
         "zhHK": "鉻繹不絕", 
         "zhPY": "luò yì bù jué"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "络绎 means 'continuous, endless' and 绝 means 'break off, cut off.' The literal meaning is 'endless and not cutting off,' with a freer translation being 'continuous flow, unending stream.'"
       }, 
       "examples": [
@@ -1018,7 +1018,7 @@
         "zhHK": "不約而同", 
         "zhPY": "bù yuē ér tóng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "约 means 'agree' and 同 means 'same.' The meaning of the whole idiom is 'have the same view or take the same action as someone else but without prior consultation with them.'"
       }, 
       "examples": [
@@ -1040,7 +1040,7 @@
         "zhHK": "千千萬萬", 
         "zhPY": "qiān qiān wàn wàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'thousand thousand ten thousand ten thousand,' with a freer translation being 'tens of thousands, numerous, a great number of.'"
       }, 
       "examples": [
@@ -1062,7 +1062,7 @@
         "zhHK": "齊心協力", 
         "zhPY": "qí xīn xié lì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "齐 means 'together,' 心 means 'heart, mind,' and 协力 means 'join forces, combine efforts.' A literal translation of the whole idiom is 'put together minds combine forces.' This refers to minds thinking together, and strength and forces working together. A freer translation is 'make a united effort, work as one.'"
       }, 
       "examples": [
@@ -1084,7 +1084,7 @@
         "zhHK": "臥薪嘗膽", 
         "zhPY": "wò xīn cháng dăn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "卧 means 'lie down,' 薪 means 'firewood,' 尝 means 'taste, lick,' and 胆 means 'gall bladder.' A literal translation of this idiom is 'sleep on firewood and taste gall bladder.' This is a metaphor for 'undergo hardships to achieve one's purpose' or 'steel oneself for revenge.'"
       }, 
       "examples": [
@@ -1106,7 +1106,7 @@
         "zhHK": "大街小巷", 
         "zhPY": "dà jiē xiăo xiàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "街 means 'street' and 巷 means 'lane,' with the pattern 大 … 小 … here meaning 'all.' The meaning of the whole idiom is 'all the streets and lanes.'"
       }, 
       "examples": [
@@ -1128,7 +1128,7 @@
         "zhHK": "不由自主", 
         "zhPY": "bù yóu zì zhù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "由 means 'from' or 'by,' 自 means 'oneself,' and 主 means 'be master of.' The literal meaning of the whole idiom is 'not be master over oneself.' A freer translation would be 'not be able to restrain oneself, feel an irresistible urge; involuntarily, spontaneously.'"
       }, 
       "examples": [
@@ -1150,7 +1150,7 @@
         "zhHK": "應運而生", 
         "zhPY": "yìng yùn ér shēng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "应 means 'respond to,' 运 here means 'fate' or 'opportune moment,' and 生 means 'arise.' The whole idiom means 'arise in response to the needs of the times.'"
       }, 
       "examples": [
@@ -1172,7 +1172,7 @@
         "zhHK": "形形色色", 
         "zhPY": "xíng xíng sè sè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "形 means 'outward appearance' and 色 means 'color.' The meaning of the whole idiom is 'of all different outward appearances and colors, of all kinds.'"
       }, 
       "examples": [
@@ -1194,7 +1194,7 @@
         "zhHK": "名列前茅", 
         "zhPY": "míng liè qián máo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "名 means 'name,' 歹[I means 'ranked at,' and 前茅 means 'front ranks.' A literal translation of this idiom is 'one's name is ranked at the top of the list.' This refers to coming out in front or on top in an examination or a competition. A freer English translation is 'rank among the very top, be at the top of the list.'"
       }, 
       "examples": [
@@ -1216,7 +1216,7 @@
         "zhHK": "家喻戶曉", 
         "zhPY": "jiā yù hù xiăo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "喻 means 'understand,' 户 means 'household,' and 晓 means 'know.' A literal translation of the whole idiom is '(every) family understands and (every) household knows,' with freer translations being 'known to every family,' 'widely known' and 'a household word.'"
       }, 
       "examples": [
@@ -1238,7 +1238,7 @@
         "zhHK": "興高采烈", 
         "zhPY": "xìng gāo căi liè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "兴 means 'interest, enthusiasm,' 采 means 'energy, spirit,' and 烈 means 'strong.' A literal translation of this idiom is 'interest high energy strong,' with a freer translation being 'in high spirits, jubilant, elated.'"
       }, 
       "examples": [
@@ -1260,7 +1260,7 @@
         "zhHK": "排憂解難", 
         "zhPY": "pái yōu jiě nàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "排 means 'remove,' 忧 means 'worry,' 解 means 'relieve,' and 难 means 'difficulty.' A literal translation of the whole idiom is 'remove worries relieve difficulties.' A freer translation is 'help other people overcome their difficulties.'"
       }, 
       "examples": [
@@ -1282,7 +1282,7 @@
         "zhHK": "自強不息", 
         "zhPY": "zì qiáng bù xī"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "自 means 'self,' 强 means 'strengthen,' and 息 means 'stop.' A literal translation of the whole idiom is 'strengthen oneself not stop,' with freer translations being 'strive constantly for self-improvement.'"
       }, 
       "examples": [
@@ -1304,7 +1304,7 @@
         "zhHK": "走馬觀花", 
         "zhPY": "zŏu mă guān huā"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "走马 means 'ride a galloping horse' and 观 means 'look at.' A literal translation of the whole idiom is 'look at flowers while riding on a galloping horse.' This is a metaphor for 'observe in a hurried and rough manner' or 'give a cursory look and gain a shallow understanding of something.'"
       }, 
       "examples": [
@@ -1326,7 +1326,7 @@
         "zhHK": "長治久安", 
         "zhPY": "cháng zhì jiŭ ān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "长 means 'long,' 治 means 'order,' 久 means 'long in time,' and 安 means 'peace.' The literal meaning of the whole idiom is 'long order long peace,' with a freer translation being 'long-term peace, long-lasting peace and good government.'"
       }, 
       "examples": [
@@ -1348,7 +1348,7 @@
         "zhHK": "安居樂業", 
         "zhPY": "ān jū lè yè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "安 means 'peaceful,' 居 means 'live, reside,' 乐 means 'happy,' and 业 means 'business, occupation.' A literal translation is 'live peacefully and be content with one's occupation.' Freer translations include 'live and work in peace and happiness, lead a peaceful and happy life.'"
       }, 
       "examples": [
@@ -1370,7 +1370,7 @@
         "zhHK": "驚心動魄", 
         "zhPY": "jīng xīn dòng pò"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "惊心 means 'startle the heart' and 动魄 means 'move the soul.' The meaning of the whole idiom is 'soul-stirring.'"
       }, 
       "examples": [
@@ -1392,7 +1392,7 @@
         "zhHK": "腳踏實地", 
         "zhPY": "jiăo tà shí dì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "脚 means 'foot,' 踏 means 'step on,' and 实 means 'real, true, solid.' The literal meaning is 'plant one's feet on solid ground,' with a freer translation being 'conscientious and dependable, with honesty and dedication.'"
       }, 
       "examples": [
@@ -1414,7 +1414,7 @@
         "zhHK": "徇私舞弊", 
         "zhPY": "xùn sī wŭ bì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "徇 means 'submit to,' 私 means 'personal gains,' and 舞弊 means 'fraudulent or corrupt practices.' The meaning of the whole idiom is 'play favoritism and commit irregularities, do wrong to serve one's relatives or friends.'"
       }, 
       "examples": [
@@ -1436,7 +1436,7 @@
         "zhHK": "不知所措", 
         "zhPY": "bù zhī suŏ cuò"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "措 means 'handle.' The meaning of the whole idiom is 'not know what to do.'"
       }, 
       "examples": [
@@ -1458,7 +1458,7 @@
         "zhHK": "來之不易", 
         "zhPY": "lái zhī bú yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "来 means 'cause to come,' 之 means 'it,' and 易 means 'easy.' A literal translation of the whole idiom is 'causing it to come is not easy.' Freer translations include 'not easily obtained, hard-won, hard-earned.'"
       }, 
       "examples": [
@@ -1480,7 +1480,7 @@
         "zhHK": "發揚光大", 
         "zhPY": "fā yáng guāng dà"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "发扬 means 'promote' and 光大 means '(make) brilliant.' The whole idiom can be translated as 'promote, develop, enhance, carry forward.'"
       }, 
       "examples": [
@@ -1502,7 +1502,7 @@
         "zhHK": "顧全大局", 
         "zhPY": "gù quán dà jú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "顾 means 'look at, take into account.' The meaning of the whole idiom is 'take the entire situation into account, consider the overall situation.'"
       }, 
       "examples": [
@@ -1524,7 +1524,7 @@
         "zhHK": "八仙過海", 
         "zhPY": "bā xiān guò hăi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "八仙 refers to the Eight Immortals (in Taoism) and 过海 means 'cross the (East China) sea.' A literal translation is 'the Eight Immortals cross the East China Sea.' The extended meaning is 'use one's own particular talents to solve problems' or 'use one's own individual resources to achieve great goals.'"
       }, 
       "examples": [
@@ -1546,7 +1546,7 @@
         "zhHK": "自然而然", 
         "zhPY": "zì rán ér rán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "自然 means 'naturally.' The meaning of the whole idiom is 'naturally, of itself.'"
       }, 
       "examples": [
@@ -1568,7 +1568,7 @@
         "zhHK": "以身作則", 
         "zhPY": "yĭ shēn zuò zé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "身 means 'oneself' and 则 means 'rule, model.' A literal translation is 'take oneself as the model,' with a freer translation being 'set an example for others, practice what one preaches.'"
       }, 
       "examples": [
@@ -1590,7 +1590,7 @@
         "zhHK": "層出不窮", 
         "zhPY": "céng che bù qióng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "层 means 'layer' and 穷 means 'exhaust.' The meaning of the whole idiom is 'pile up or emerge one after another without stopping.'"
       }, 
       "examples": [
@@ -1612,7 +1612,7 @@
         "zhHK": "轟轟烈烈", 
         "zhPY": "hōng hōng liè liè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "轰轰 describes loud noise while 烈烈 refers to blazing fire. The meaning of the whole idiom is 'grand and gigantic, bold and dynamic.'"
       }, 
       "examples": [
@@ -1634,7 +1634,7 @@
         "zhHK": "息息相關", 
         "zhPY": "xī xī xiāng guān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "息 means 'breath,' 相 means 'mutually,' and 关 means 'related.' A literal translation of the whole idiom is 'mutually related as one breath is to another,' with freer translations being 'interrelated, closely linked.'"
       }, 
       "examples": [
@@ -1656,7 +1656,7 @@
         "zhHK": "一絲不茍", 
         "zhPY": "yì sī bù gŏu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "一丝 means 'even a little, at all' and 苟 means 'careless.' The meaning of the whole idiom is 'not the least bit negligent, scrupulous about every detail, conscientious and meticulous, perfectionist.'"
       }, 
       "examples": [
@@ -1678,7 +1678,7 @@
         "zhHK": "微不足道", 
         "zhPY": "wēi bù zú dào"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "微 means 'small,' 足 means 'worth,' and 道 means 'say, mention.' The meaning of the whole idiom is 'too trifling to deserve mention, insignificant.'"
       }, 
       "examples": [
@@ -1700,7 +1700,7 @@
         "zhHK": "刻不容緩", 
         "zhPY": "kè bù róng huăn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "刻 means 'short period of time,' 容 means 'allow,' and 缓 means 'delay.' A literal translation of the whole idiom is 'short time not allow delay,' with a freer translation being 'it is not allowed to delay for even a short period of time.' The meaning of the whole idiom is 'allow no delay, extremely urgent.'"
       }, 
       "examples": [
@@ -1722,7 +1722,7 @@
         "zhHK": "截然不同", 
         "zhPY": "jié rán bù tóng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "截然 means 'completely.' The meaning of the whole idiom is 'completely different.'"
       }, 
       "examples": [
@@ -1744,7 +1744,7 @@
         "zhHK": "愚公移山", 
         "zhPY": "yú gōng yí shān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "愚 means 'foolish,' 公 means 'old man,' and 移 means 'move.' A literal translation of this idiom is 'the foolish old man moved the mountain.' This is a metaphor for 'have inexhaustible willpower and an unyielding spirit.' Possible English translations include 'where there's a will there's a way' or 'with sufficient effort anything can be achieved.'"
       }, 
       "examples": [
@@ -1766,7 +1766,7 @@
         "zhHK": "所作所為", 
         "zhPY": "suŏ zuò suŏ wéi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "为 means 'do.' The literal meaning of this idiom is 'what one does,' with a freer translation being 'everything one does, all of a person's actions.'"
       }, 
       "examples": [
@@ -1788,7 +1788,7 @@
         "zhHK": "後顧之憂", 
         "zhPY": "hòu gù zhī yōu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "后 means 'in the back,' 顾 means 'look back,' and 忧 means 'worry.' A literal translation of the whole idiom is 'the worries of looking back,' with a freer translation being 'things to worry about back home or in the rear.'"
       }, 
       "examples": [
@@ -1810,7 +1810,7 @@
         "zhHK": "德才兼備", 
         "zhPY": "dé cái jiān bèi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "德 means 'moral character,' 才 means 'ability, talent,' 兼 means 'simultaneously,' and 备 means 'equipped with.' A literal translation of the entire idiom is 'simultaneously be equipped with moral character and talent.' A freer translation is 'possess both moral integrity and professional competence.'"
       }, 
       "examples": [
@@ -1832,7 +1832,7 @@
         "zhHK": "相輔相成", 
         "zhPY": "xiāng fŭ xiāng chéng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "相 means 'mutually,' 辅 means 'help,' and 成 means 'facilitate, bring about.' A literal translation of the whole idiom is 'help each other and facilitate each other,' with a freer translation being 'complement each other.'"
       }, 
       "examples": [
@@ -1854,7 +1854,7 @@
         "zhHK": "討價還價", 
         "zhPY": "tăo jià huán jià"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "讨价 means 'ask a price' and 还价 means 'make a counter-offer.' The meaning of the whole idiom is 'bargain back and forth, negotiate back and forth.'"
       }, 
       "examples": [
@@ -1876,7 +1876,7 @@
         "zhHK": "同心同德", 
         "zhPY": "tóng xīn tóng dé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "同 means 'same,' 心 means 'mind,' and 德 here means 'belief.' A literal translation of this idiom is 'same mind same beliefs.' Freer translations include 'of one heart and mind, united in thought and belief.'"
       }, 
       "examples": [
@@ -1898,7 +1898,7 @@
         "zhHK": "理直氣壯", 
         "zhPY": "lĭ zhí qì zhuàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "理 means 'reason,' 直 means 'correct,' 气 means 'spirit,' and 壮 means 'strong.' The meaning of the whole idiom is 'bold through being in the right, with righteous self-assurance.'"
       }, 
       "examples": [
@@ -1920,7 +1920,7 @@
         "zhHK": "身體力行", 
         "zhPY": "shēn tĭ lì xíng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "身 means 'oneself,' 体 means 'learn from experience,' 力 means 'strive hard to do something,' and 行 means 'put into practice.' The literal meaning is 'What oneself has learned from experience one should try hard to put into practice,' with a freer translation being 'practice what you preach, personally set an example.'"
       }, 
       "examples": [
@@ -1942,7 +1942,7 @@
         "zhHK": "義不容辭", 
         "zhPY": "yì bù róng cí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "义 means 'duty, obligation,' 容 means 'allow,' and 辞 means 'decline, refuse.' A literal translation of this idiom is 'duty does not allow one to decline,' with a freer translation being 'duty-bound not to refuse.'"
       }, 
       "examples": [
@@ -1964,7 +1964,7 @@
         "zhHK": "畫龍點睛", 
         "zhPY": "huà lóng diăn jīng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "画 means 'draw,' 龙 means 'dragon,' 点 means 'dot, adorn,' and 睛 means 'eye.' A literal translation of the whole idiom is 'draw a dragon and add on the eyes.' This is a metaphor for 'add the perfect finishing touch' or 'say or write something crucially important that completes a matter.'"
       }, 
       "examples": [
@@ -1986,7 +1986,7 @@
         "zhHK": "琳瑯滿目", 
         "zhPY": "lín láng măn mù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "琳琅 means 'beautiful jade' and functions as a metaphor for precious things. 满目 means 'fill the eyes - seen everywhere.' The meaning of the whole idiom is 'a dazzling collection of beautiful and precious things.'"
       }, 
       "examples": [
@@ -2008,7 +2008,7 @@
         "zhHK": "耐人尋味", 
         "zhPY": "nài rén xún wèi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "耐 means 'endure, withstand,' 寻 means 'seek,' and 味 means 'flavor,' with 寻味 meaning 'ponder, think over.' The literal meaning is 'can withstand people's pondering something.' A freer translation is 'giving food for thought - provoking.'"
       }, 
       "examples": [
@@ -2030,7 +2030,7 @@
         "zhHK": "繁榮昌盛", 
         "zhPY": "fán róng chāng shèng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "繁荣 means 'prosperous' and 昌盛 means 'thriving,' so the whole idiom can be translated as 'prosperous and thriving.' This typically refers to an industry, society, or nation."
       }, 
       "examples": [
@@ -2052,7 +2052,7 @@
         "zhHK": "難能可貴", 
         "zhPY": "nán néng kě guì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "难能 here means 'hard to do' and 可贵 means 'valuable, praiseworthy.' A literal translation of the whole idiom is 'hard to do and (therefore) praiseworthy.' Freer translations of the idiom include 'praiseworthy, commendable.'"
       }, 
       "examples": [
@@ -2074,7 +2074,7 @@
         "zhHK": "一模一樣", 
         "zhPY": "yì mú yí yàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "模 means 'model' and 样 means 'pattern.' A literal translation is 'one model one pattern.' The meaning of the whole idiom is 'identical, completely the same, exactly alike.'"
       }, 
       "examples": [
@@ -2096,7 +2096,7 @@
         "zhHK": "突飛猛進", 
         "zhPY": "tū fēi měng jìn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "突 means 'suddenly, quickly,' 飞 means 'fly, leap,' 猛 means 'vigorously,' and 进 means 'progress forward, advance.' A literal translation of the whole idiom is 'quickly leap vigorously advance,' with freer translations including 'advance rapidly, progress by leaps and bounds, make great strides.'"
       }, 
       "examples": [
@@ -2118,7 +2118,7 @@
         "zhHK": "刮目相看", 
         "zhPY": "guā mù xiāng kàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "刮目 means 'rub one's eyes.' The meaning of the whole idiom is 'have great respect for, hold someone in high esteem.'"
       }, 
       "examples": [
@@ -2140,7 +2140,7 @@
         "zhHK": "風風雨雨", 
         "zhPY": "fēng fēng yŭ yŭ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of the whole idiom is 'wind wind rain rain.' This is often used metaphorically to mean 'repeated difficulties, frequent hardships.'"
       }, 
       "examples": [
@@ -2162,7 +2162,7 @@
         "zhHK": "旗幟鮮明", 
         "zhPY": "qí zhì xiān míng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "旗帜 means 'banner' or 'flag' and 鲜明 means 'bright' or 'distinct.' A literal translation of the entire idiom is 'banners are bright and distinct.' This originally referred to the brilliant colors of an army's banners. Freer translations include 'have a clear standpoint, take a clear position, take a clear political stand.'"
       }, 
       "examples": [
@@ -2184,7 +2184,7 @@
         "zhHK": "破釜沉舟", 
         "zhPY": "pò fŭ chén zhōu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "破 means 'break,' 釜 means 'kettle, pot,' 沉 means 'sink,' and 舟 means 'boat.' The literal meaning is 'break the kettles and sink the boats.' The connotation is 'burn one's bridges, cut off all means of retreat.'"
       }, 
       "examples": [
@@ -2206,7 +2206,7 @@
         "zhHK": "獨一無二", 
         "zhPY": "dú yī wú èr"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "独 means 'only.' A literal translation of the whole idiom is 'only one without a second one,' with freer translations being 'unique, unparalleled.'"
       }, 
       "examples": [
@@ -2228,7 +2228,7 @@
         "zhHK": "兢兢業業", 
         "zhPY": "jīng jīng yè yè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "兢兄克 means 'cautious' and 业业 means 'anxious.' A literal translation of the whole idiom is 'cautious and anxious.' Note that this idiom often conveys the additional sense of 'conscientious.' Freer translations include 'cautious and attentive' and 'careful and conscientious.'"
       }, 
       "examples": [
@@ -2250,7 +2250,7 @@
         "zhHK": "不折不扣", 
         "zhPY": "bù zhé bú Kòu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "折 means 'discount' and 手口 'deduct.' The meaning of the whole idiom is 'to the letter, in every sense of the term, dyed-in-the-wool.'"
       }, 
       "examples": [
@@ -2272,7 +2272,7 @@
         "zhHK": "五花八門", 
         "zhPY": "wǔ huā bā mén"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "五花 or 'five flowers' refers to the Five Row battle formation and 八门 J or 'eight gates' refers to the Eight Trigram battle formation in ancient Chinese military strategy. Both of these strategies involved many different kinds of tactics. Nowadays, this idiom means 'various, of all kinds, miscellaneous.'"
       }, 
       "examples": [
@@ -2294,7 +2294,7 @@
         "zhHK": "求同存異", 
         "zhPY": "qiú tóng cún yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "求 means 'seek,'同 means 'similarity,' means 'preserve,' and 异 means 'difference.' A literal translation of the whole idiom is 'seek sameness maintain difference.' A freer translation is 'seek common ground while maintaining differences.'"
       }, 
       "examples": [
@@ -2316,7 +2316,7 @@
         "zhHK": "無能為力", 
         "zhPY": "wú néng wéi lì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "无能 means 'have no ability to, be powerless to' and 为力 means 'exert oneself, make an effort.' A literal translation of the whole idiom is 'have no ability to make an effort,' with a freer translation being 'powerless, helpless.'"
       }, 
       "examples": [
@@ -2338,7 +2338,7 @@
         "zhHK": "一無所知", 
         "zhPY": "yì wú suŏ zhī"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The meaning of this idiom is 'know absolutely nothing about something.'"
       }, 
       "examples": [
@@ -2360,7 +2360,7 @@
         "zhHK": "一席之地", 
         "zhPY": "yì xí zhī dì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "席 means 'mat.' A literal translation of the whole idiom is 'the place for one mat.' By metaphor, this has come to mean 'a deserved place' or 'a proper place.'"
       }, 
       "examples": [
@@ -2382,7 +2382,7 @@
         "zhHK": "輕而易舉", 
         "zhPY": "qīng ér yì jǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "轻 means 'light, not heavy,' M means 'easy,' and 举 means 'lift, raise.' The literal meaning is 'light and easy to lift,' with a freer translation being 'easy, easy as pie, without much effort.'"
       }, 
       "examples": [
@@ -2404,7 +2404,7 @@
         "zhHK": "亡羊補牢", 
         "zhPY": "wáng yáng bǔ láo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "亡 means 'lose,'补 means 'mend, repair,' and 牢 means 'sheep pen.' A literal translation of the idiom is 'mend the sheep pen when one loses sheep.' This is a metaphor for it never being too late to figure out a way to solve a problem that has arisen. English translations include 'it's never too late' and 'better late than never."
       }, 
       "examples": [
@@ -2426,7 +2426,7 @@
         "zhHK": "默默無聞", 
         "zhPY": "mò mò wú wén"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "默默 means 'silently' and 闻 means 'hear of.' A literal translation of the whole idiom is 'silently and without anyone hearing of someone or something.' Freer translations include 'unknown to the public, anonymous.'"
       }, 
       "examples": [
@@ -2448,7 +2448,7 @@
         "zhHK": "迫不及待", 
         "zhPY": "pò bù jí dài"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "迫 means 'urgent, pressing,' 不及 means 'not be up to,' and 待 means 'wait.' The meaning of the whole idiom is 'too impatient to wait, be itching to do something, unable to hold oneself back.'"
       }, 
       "examples": [
@@ -2470,7 +2470,7 @@
         "zhHK": "有聲有色", 
         "zhPY": "yŏu shēng yŏu sè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "尸 means 'sound' and 色 means 'color.' A literal translation of this idiom is 'have sound have color.' A freer translation is 'full of sound and color, vivid.'"
       }, 
       "examples": [
@@ -2492,7 +2492,7 @@
         "zhHK": "一心一意", 
         "zhPY": "yì xīn yí yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of this idiom is 'with one heart and one mind.' Freer translations include 'wholeheartedly, very attentively, with complete concentration.'"
       }, 
       "examples": [
@@ -2514,7 +2514,7 @@
         "zhHK": "突如其來", 
         "zhPY": "tū rú qí lái"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "先"
       }, 
       "examples": [
@@ -2536,7 +2536,7 @@
         "zhHK": "異軍突起", 
         "zhPY": "yì jūn tū qĭ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "异 means 'another,' 军 means 'armv,' 突 means 'suddenly,' and M means 'arise, emerge.' A literal translation of the whole idiom is 'another army suddenly emerges.' This is a metaphor meaning 'sudden appearance of a new force or new trend.'"
       }, 
       "examples": [
@@ -2558,7 +2558,7 @@
         "zhHK": "喜聞樂見", 
         "zhPY": "xĭ wén lè jiàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "喜 means 'like,' 闻 means 'hear,'乐 means 'glad,' and 见 means 'see.' A literal translation of the whole idiom is 'like to hear and glad to see.' A freer translation is 'love to see and hear.'"
       }, 
       "examples": [
@@ -2580,7 +2580,7 @@
         "zhHK": "任重道遠", 
         "zhPY": "rèn zhòng dào yuăn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "任 means 'burden' and 道 means 'road.' A literal translation of the whole idiom is 'the burden is heavy and the road is far,' with a freer translation being 'have heavy responsibilities that take a long time to fulfill.'"
       }, 
       "examples": [
@@ -2602,7 +2602,7 @@
         "zhHK": "無家可歸", 
         "zhPY": "wú jiā kě guī"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "归 means 'go back.' A literal translation is 'have no home that you can return to,' with a freer translation being 'homeless.'"
       }, 
       "examples": [
@@ -2624,7 +2624,7 @@
         "zhHK": "入木三分", 
         "zhPY": "rù mù sān fēn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of the whole idiom is 'enter wood 3/10 of an inch (in calligraphy) - forceful, bold, sharp.' Originally, this referred to great strength in writing Chinese calligraphy, but later it came to be used as a metaphor for 'deep, astute, keen, or sharp.'"
       }, 
       "examples": [
@@ -2646,7 +2646,7 @@
         "zhHK": "意味深長", 
         "zhPY": "yì wèi shēn cháng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "意味 means 'meaning, significance' and 深长 means 'profound.' The meaning of the whole idiom is 'have profound significance.'"
       }, 
       "examples": [
@@ -2668,7 +2668,7 @@
         "zhHK": "繼往開來", 
         "zhPY": "jì wăng kāi lái"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "继 means 'succeed, continue,' 往 means 'the past,' 开 means 'open up, initiate,' and 来 means 'the future.' A literal translation of the whole idiom is 'succeed the past and initiate the future,' with freer translations being 'carry on the glorious traditions of the past and open up the way to the future.'"
       }, 
       "examples": [
@@ -2690,7 +2690,7 @@
         "zhHK": "耳目一新", 
         "zhPY": "ěr mù yì xīn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "耳 means 'ear' and 目 means 'eye.' The literal meaning of this idiom is 'ear eye entirely new.' Freer translations include 'brand-new sounds and sights, find everything fresh and new, the whole atmosphere has changed for the better, a whole new look, refreshing.'"
       }, 
       "examples": [
@@ -2712,7 +2712,7 @@
         "zhHK": "循序漸進", 
         "zhPY": "xún xù jiàn jìn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "循 means 'follow,' 斤 means 'order,' 渐 means 'gradually,' and 进 means 'move forward.' A literal translation of the whole idiom is 'according to the order gradually move forward,' with a freer translation being 'follow in order and proceed step by step.'"
       }, 
       "examples": [
@@ -2734,7 +2734,7 @@
         "zhHK": "挺身而出", 
         "zhPY": "tĭng shēn ér chū"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "挺 means 'straighten' and 身 means 'body.' The literal meaning of this idiom is 'straighten one's body and come out.' A freer translation is 'step forward courageously, come out boldly.'"
       }, 
       "examples": [
@@ -2756,7 +2756,7 @@
         "zhHK": "滔滔不絕", 
         "zhPY": "tāo tāo bù jué"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "滔滔 describes the continuous flow of water and 绝 means 'cut off.' The meaning of the whole idiom is 'talking on and on without stopping, incessant.'"
       }, 
       "examples": [
@@ -2778,7 +2778,7 @@
         "zhHK": "天翻地覆", 
         "zhPY": "tiān fān dì fù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "翻 means 'turn over' and fc means 'overturn.' A literal translation is 'heavens overturn earth overturns.' A freer translation is 'earth-shaking, causing cataclysmic changes.'"
       }, 
       "examples": [
@@ -2800,7 +2800,7 @@
         "zhHK": "不言而喻", 
         "zhPY": "bù yán ér yù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "言 means 'speak' and 喻 means 'understand.' The whole idiom means it goes without saying, be obvious.'"
       }, 
       "examples": [
@@ -2822,7 +2822,7 @@
         "zhHK": "再接再厲", 
         "zhPY": "zài jiē zài lì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "再 means 'again,' 接 here means join (battle),' and 厉 here means 'sharpen.' A literal translation of the whole idiom is 'again join (battle) again sharpen (one's weapon).' This originally referred to the habit some roosters had of sharpening their beaks prior to fighting. Freer translations of the idiom include 'redouble one's efforts' and 'make sustained and persistent efforts.'"
       }, 
       "examples": [
@@ -2844,7 +2844,7 @@
         "zhHK": "杞人憂天", 
         "zhPY": "Qĭ rén yōu tiān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "杞 is the name of a country in ancient China and '忧 means 'worry about.' A literal translation of the whole idiom is '(like) the person from Qi who worried about the sky (falling down).' This is a metaphor for 'groundless fears' or 'alarmism.'"
       }, 
       "examples": [
@@ -2866,7 +2866,7 @@
         "zhHK": "風雲變幻", 
         "zhPY": "fēng yún biàn huàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "风 means 'wind,' 云 means 'cloud,' and 变幻 means 'change often and unpredictably.' A literal translation of this idiom is 'wind and clouds change often,' with freer translations including 'constantly changing, changeable.'"
       }, 
       "examples": [
@@ -2888,7 +2888,7 @@
         "zhHK": "淋漓盡致", 
         "zhPY": "lín lí jìn zhì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning of this idiom is 'soak thoroughly until dripping wet,' but it is usually used in the sense of 'thoroughly.'"
       }, 
       "examples": [
@@ -2910,7 +2910,7 @@
         "zhHK": "憂心忡忡", 
         "zhPY": "yōu xīn chōng chōng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "忧心 means 'worry' and 忡忡 means 'sad and worried.' The meaning of the whole idiom is 'sad and worried.'"
       }, 
       "examples": [
@@ -2932,7 +2932,7 @@
         "zhHK": "直截了當", 
         "zhPY": "zhí jié liăo dàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "直感 means 'direct' and 了当 means 'straightforward.' The meaning of the whole idiom is 'direct, straightforward.'"
       }, 
       "examples": [
@@ -2954,7 +2954,7 @@
         "zhHK": "眼花繚亂", 
         "zhPY": "yăn huā liáo luàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "眼花 means 'blurrv vision' and 缭乱 means 'confused, chaotic.' The meaning of the whole idiom can be either 'confused, dazzled' or 'confusing, dazzling.'"
       }, 
       "examples": [
@@ -2976,7 +2976,7 @@
         "zhHK": "不屈不撓", 
         "zhPY": "bù qū bù náo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "屈 means 'submit' and 挠 means 'bent, crooked.' The whole idiom means 'refuse to submit, stick to one's guns.'"
       }, 
       "examples": [
@@ -2998,7 +2998,7 @@
         "zhHK": "語重心長", 
         "zhPY": "yǔ zhòng xīn cháng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "语 here means 'manner of speaking,' 重 means 'serious,' 心 means 'intention,' and 长 here means 'profound.' A literal translation of the whole idiom is 'with a serious manner of speaking and profound intention,' with freer translations being 'sincere' and 'heartfelt.'"
       }, 
       "examples": [
@@ -3020,7 +3020,7 @@
         "zhHK": "栩栩如生", 
         "zhPY": "xǔ xǔ rú shēng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "栩栩 means 'lively, vivid, lifelike' and 如生 means 'like life.' The meaning of the whole idiom is 'lifelike.'"
       }, 
       "examples": [
@@ -3042,7 +3042,7 @@
         "zhHK": "嘔心瀝血", 
         "zhPY": "ŏu xīn lì xuè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "呕 means 'vomit,' 沥 means 'drip, trickle,' and 血 means 'blood.' A literal translation of the whole idiom is 'vomit one's heart and let drip out one's blood,' with a freer translation being 'work one's heart out.'"
       }, 
       "examples": [
@@ -3064,7 +3064,7 @@
         "zhHK": "毛遂自薦", 
         "zhPY": "Máo Suì zì jiàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "毛遂 is the name of a person and 荐 means 'recommend.' A literal translation is 'Mao Sui recommended himself,' with a freer translation of the whole idiom being 'volunteer.'"
       }, 
       "examples": [
@@ -3086,7 +3086,7 @@
         "zhHK": "方興未艾", 
         "zhPY": "fāng xīng wèi ài"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "方 here means 'just now,' 兴 means 'rise,' 未 means 'not yet,' and 艾 means 'stop.' A literal translation of the whole idiom is 'just now rising and not yet stopped,' with freer translations being 'on the rise, on the upswing.'"
       }, 
       "examples": [
@@ -3108,7 +3108,7 @@
         "zhHK": "聚精會神", 
         "zhPY": "jù jīng huì shén"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "聚 means 'collect,' 会 means 'concentrate,' and the noun object 精神 (which is here split into 精 and 神) means 'energy.' The meaning of the whole idiom is 'with total concentration.'"
       }, 
       "examples": [
@@ -3130,7 +3130,7 @@
         "zhHK": "比比皆是", 
         "zhPY": "bĭ bĭ jiē shì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "比比 means 'everywhere' and 皆 means 'all.' A literal translation of the whole idiom is 'everywhere in all cases it is,' with freer translations being 'can be found everywhere, great in number, in abundance.'"
       }, 
       "examples": [
@@ -3152,7 +3152,7 @@
         "zhHK": "高瞻遠矚", 
         "zhPY": "gāo zhān yuăn zhǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "瞻 means 'gaze' and 瞩 here means 'look at with attention.' A literal translation of the whole idiom is 'look out from on high and see far,' with freer translations including 'far sighted' and 'take a long-range or long-term approach to something.'"
       }, 
       "examples": [
@@ -3174,7 +3174,7 @@
         "zhHK": "無動於衷", 
         "zhPY": "wú dòng yú zhōng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "动 means 'move' and 衷 means 'heart.' A literal translation is 'there is no moving in the heart,' with freer translations of the whole idiom being 'unmoved, unconcerned.'"
       }, 
       "examples": [
@@ -3196,7 +3196,7 @@
         "zhHK": "迫在眉睫", 
         "zhPY": "pò zài méi jié"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "迫 here means 'urgent, pressing,' with 眉 meaning 'eyebrow' and 睫 meaning 'eyelash.' A literal translation of the whole idiom is 'pressing on the eyebrows and eyelashes.' Freer translations include 'very urgent' and 'imminent.'"
       }, 
       "examples": [
@@ -3218,7 +3218,7 @@
         "zhHK": "觸目驚心", 
         "zhPY": "chù mù jīng xīn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "触目 means 'strike the eye, see' and 惊心 means 'alarmed in one's heart.' The meaning of the whole idiom is 'frightening, shocking.'"
       }, 
       "examples": [
@@ -3240,7 +3240,7 @@
         "zhHK": "無濟於事", 
         "zhPY": "wú jì yú shì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "济 means 'help.' A literal translation of this idiom is 'has no help to matters.' A freer translation is 'to not help matters, of no avail, to no effect.'"
       }, 
       "examples": [
@@ -3262,7 +3262,7 @@
         "zhHK": "應有盡有", 
         "zhPY": "yīng yŏu jìn yŏu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "尽 means 'all.' A literal translation of this idiom is 'have everything that should be had,' with a freer translation being 'lack nothing, complete.'"
       }, 
       "examples": [
@@ -3284,7 +3284,7 @@
         "zhHK": "南轅北轍", 
         "zhPY": "nán yuán běi zhé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "轅 means 'shaft (of a vehicle) ' and 辙 means 'rut, groove, track (left by a wheel in the ground).' A literal translation is 'south shaft north rut,' which could be translated more freely as 'go south by driving north.' By metaphor this means 'head in the wrong direction,' 'one's goal and one's actions are exactly opposite,' or 'defeat one's purpose.'"
       }, 
       "examples": [
@@ -3306,7 +3306,7 @@
         "zhHK": "有朝一日", 
         "zhPY": "yŏu zhāo yí rì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "朝 means 'morning, day.' The meaning of the whole idiom is 'some day in the future.' 90 Entry 152:大有可为"
       }, 
       "examples": [
@@ -3328,7 +3328,7 @@
         "zhHK": "大有可為", 
         "zhPY": "dà yŏu kě wéi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "大 here means 'greatly, very much,' 可 means 'can,' and 为 means 'do.' A literal translation of the whole idiom is 'greatly have things one can do.' Freer translations of the idiom include 'very promising, have bright prospects, have great potential.'"
       }, 
       "examples": [
@@ -3350,7 +3350,7 @@
         "zhHK": "史無前例", 
         "zhPY": "shĭ wú qián lì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "史 means 'history' and 前例 means 'precedent.' A literal translation of this idiom is 'in history there is no precedent.' A common translation is 'unprecedented.'"
       }, 
       "examples": [
@@ -3372,7 +3372,7 @@
         "zhHK": "隨心所欲", 
         "zhPY": "suíxīnsuŏyù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "随 means 'follow' and 欲 means 'want, desire.' The literal meaning is 'follow what the heart desires.' This idiom is often translated as 'do exactly as one pleases, at will, anything goes.'"
       }, 
       "examples": [
@@ -3394,7 +3394,7 @@
         "zhHK": "豐功偉績", 
         "zhPY": "fēng gōng wěi jì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "丰 means 'abundant,' 功 means 'accomplishment,' 伟 means 'great,' and 绩 means 'achievement.' A literal translation of the whole idiom is 'abundant accomplishment great achievement,' with freer translations being 'great achievement, magnificent accomplishment.'"
       }, 
       "examples": [
@@ -3416,7 +3416,7 @@
         "zhHK": "不動聲色", 
         "zhPY": "bú dòng shéng sè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "声 means 'voice' and 色 here means 'facial complexion.' A literal translation of this idiom is 'not change one's voice or complexion.' More freely, the idiom means 'calm and collected, maintain one's composure.'"
       }, 
       "examples": [
@@ -3438,7 +3438,7 @@
         "zhHK": "取而代之", 
         "zhPY": "qǔ ér dài zhī"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "取 means 'take,' 代 means 'replace,' and 之 means 'it.' A literal translation of the whole idiom is 'take and replace it,' with freer translations being 'replace (someone or something), take over, supersede.'"
       }, 
       "examples": [
@@ -3460,7 +3460,7 @@
         "zhHK": "根深蒂固", 
         "zhPY": "gēn shēn dì gù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "根 means 'root,' 深 means 'deep,' 蒂 means 'stem,' and 固 means 'firm, solid.' A literal translation of the whole idiom is 'roots deep stem firm,' with freer translations being 'deep-rooted, rock solid, ingrained.'"
       }, 
       "examples": [
@@ -3482,7 +3482,7 @@
         "zhHK": "久而久之", 
         "zhPY": "jiǔ ér jiǔ zhī"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The meaning of this idiom is 'in the course of time, gradually.'"
       }, 
       "examples": [
@@ -3504,7 +3504,7 @@
         "zhHK": "四面楚歌", 
         "zhPY": "sì miàn Chǔ gē"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "楚 was the name of a state in ancient China. A literal translation of this idiom is 'four sides Chu songs,' with a freer translation being 'everywhere there were the sounds of soldiers from the state of Chu who were singing.' This is a metaphor for being in a situation where one is attacked by enemies everywhere and one is isolated and cut off from help. English translations include 'find oneself besieged on all sides,' 'deserted by one's allies,' and 'in dire straits.'"
       }, 
       "examples": [
@@ -3526,7 +3526,7 @@
         "zhHK": "急功近利", 
         "zhPY": "jí gōng jìn lì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "急 means 'impatient,' 功 means 'success,' and 利 means 'benefit.' A literal translation of the whole idiom is 'impatient to achieve success and benefit,' with a freer translation being 'eager for quick success and immediate gain.'"
       }, 
       "examples": [
@@ -3548,7 +3548,7 @@
         "zhHK": "始終不渝", 
         "zhPY": "shĭ zhōng bù yú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "始 means 'beginning,' 终 means 'end,' and 渝 means 'change.' A literal translation of the whole idiom is '(from) beginning to end not change,' with freer translations being 'unswerving, steady, steadfast.'"
       }, 
       "examples": [
@@ -3570,7 +3570,7 @@
         "zhHK": "一目瞭然", 
         "zhPY": "yí mù liăo rán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "目 here means 'look, glance,' J means 'understand,' and 然 means 'in a certain way or manner.' A literal translation of this idiom is 'one glance understanding manner,' with a freer translation being 'at one glance to understand fully.'"
       }, 
       "examples": [
@@ -3592,7 +3592,7 @@
         "zhHK": "量力而行", 
         "zhPY": "liàng lì ér xíng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "量 here means 'estimate' and 行 means 'act.' A literal translation of the whole idiom is 'estimate one's strength and then carry out some action,' with freer translations being 'act according to one's capacity, do what one can.'"
       }, 
       "examples": [
@@ -3614,7 +3614,7 @@
         "zhHK": "浩浩蕩蕩", 
         "zhPY": "hào hào dàng dàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "浩荡 refers to a 'grand' or 'mighty' flow of water. The meaning of the whole idiom is 'with great strength and vigor, in formidable array, grand.'"
       }, 
       "examples": [
@@ -3636,7 +3636,7 @@
         "zhHK": "雨後春荀", 
         "zhPY": "yǔ hòu chūn sǔn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "笋 means 'bamboo shoot.' The literal meaning of this idiom is '(spring up like) bamboo shoots after spring rain.' Freer translations include 'spring up like mushrooms, emerge rapidly in large numbers.'"
       }, 
       "examples": [
@@ -3658,7 +3658,7 @@
         "zhHK": "一舉一動", 
         "zhPY": "yì jǔ yì dòng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "举 means 'action' and 动 means 'movement.' The meaning of the whole idiom is 'every action and every movement.'"
       }, 
       "examples": [
@@ -3680,7 +3680,7 @@
         "zhHK": "有目共賭", 
         "zhPY": "yŏu mù gòng dǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "目 means 'eye' and 睹 means 'see.' A literal translation of the whole idiom is 'have eyes together see,' with a freer translation being 'obvious to all.'"
       }, 
       "examples": [
@@ -3702,7 +3702,7 @@
         "zhHK": "欣欣向榮", 
         "zhPY": "xīn xīn xiàng róng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "欣欣 means 'thriving,' 向 here means 'turn toward,' and 荣 means 'flourishing.' A literal translation of the whole idiom is 'thriving and turning toward the flourishing,' with freer translations being 'thriving, flourishing, prosperous.'"
       }, 
       "examples": [
@@ -3724,7 +3724,7 @@
         "zhHK": "三顧茅廬", 
         "zhPY": "sān gù máo lú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "三 means 'three (times),' 顾 means 'pay a visit,' and 茅庐 means 'thatched hut.' A literal translation of the whole idiom is 'make three visits to the thatched cottage (as Liu Bei, prince of Shu, did to visit Zhuge Liang).' By metaphor this means 'repeatedly ask a worthy person to assume an important post' or 'sincerely and repeatedly request something from someone.'"
       }, 
       "examples": [
@@ -3746,7 +3746,7 @@
         "zhHK": "五彩繽紛", 
         "zhPY": "wǔ căi bīn fēn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "五彩 means 'five colors, multicolored' and 缤纷 means 'many.' The meaning of the whole idiom is 'a profusion of colors, riot of colors, multicolored.'"
       }, 
       "examples": [
@@ -3768,7 +3768,7 @@
         "zhHK": "一本正經", 
         "zhPY": "yì běn zhèng jīng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "正经 means 'serious, solemn.' The meaning of the whole idiom is 'serious, solemn, in all seriousness.'"
       }, 
       "examples": [
@@ -3790,7 +3790,7 @@
         "zhHK": "恍然大悟", 
         "zhPY": "huăng rán dà wù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "恍然 means 'suddenly' and 悟 means 'come to one's senses, awaken, realize.' A literal translation of the whole idiom is 'suddenly greatly realize,' with freer translations being 'suddenly understand, suddenly see the light, wake up to the facts.'"
       }, 
       "examples": [
@@ -3812,7 +3812,7 @@
         "zhHK": "視而不見", 
         "zhPY": "shì ér bú jiàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "视 means 'look' and 见 means 'see.' The literal meaning of this idiom is 'look but not see.' Sometimes this idiom is also used in the sense of 'see but pretend not to see, turn a blind eye to.'"
       }, 
       "examples": [
@@ -3834,7 +3834,7 @@
         "zhHK": "有條不紊", 
         "zhPY": "yŏu tiáo bù wěn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "条 means 'order' and 紊 means 'disorderly.' A literal translation of the whole idiom is 'having order and not disorderly,' with a freer translation being 'orderly, methodical.'"
       }, 
       "examples": [
@@ -3856,7 +3856,7 @@
         "zhHK": "別開生面", 
         "zhPY": "bié kāi shēng miàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "別 means 'additionally,' 开 means 'open,' and 生面 means 'a new situation.' A literal translation of the whole idiom is 'additionally open up a new situation,' with freer translations being 'start something new, break new ground.'"
       }, 
       "examples": [
@@ -3878,7 +3878,7 @@
         "zhHK": "鍥而不捨", 
         "zhPY": "qiè ér bù shě"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "锲 means 'carve' and 舍 means 'give up, abandon.' The literal meaning is '(keep on) carving without giving up,' this being a metaphor for possessing perseverance and willpower. This idiom can be translated as 'work with perseverance, keep on chipping away at something.'"
       }, 
       "examples": [
@@ -3900,7 +3900,7 @@
         "zhHK": "全神貫注", 
         "zhPY": "quán shén guàn zhù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "全 means 'all,' 千申 means 'spirit, energy,' and 贯汪 means 'concentrate.' The literal meaning is 'with all one's energy to concentrate on something,' with a freer translation being 'give one's undivided attention to, be absorbed in.'"
       }, 
       "examples": [
@@ -3922,7 +3922,7 @@
         "zhHK": "萬無一失", 
         "zhPY": "wàn wú yì shí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "失 means 'mistake.' A literal translation is in ten thousand there is not even one mistake,' with a freer translation being 'surefire, cannot go wrong.'"
       }, 
       "examples": [
@@ -3944,7 +3944,7 @@
         "zhHK": "按圖索驥", 
         "zhPY": "àn tú suŏ jì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "索 means 'seek' and 驥 means 'thoroughbred horse.' A literal translation of the whole idiom is 'according to a sketch seek a horse.' By analogy, the meaning of the whole idiom is 'search for something based on clues.' The idiom also has an extended meaning of 'do something mechanically' or 'rigid, unimaginative.'"
       }, 
       "examples": [
@@ -3966,7 +3966,7 @@
         "zhHK": "諸如此類", 
         "zhPY": "zhū rú cĭ lèi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "诸 means 'all,' 如 means 'like,' 此 means 'this,' and 类 means 'type, kind.' A literal translation of the whole idiom is 'all like this kind,' with a freer translation being 'such, such as, and so on.'"
       }, 
       "examples": [
@@ -3988,7 +3988,7 @@
         "zhHK": "精益求精", 
         "zhPY": "jīng yì qiú jīng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "精 means 'perfect' or 'perfection,' ^ means 'even more,' and 求 means 'seek.' A literal translation of the whole idiom is 'perfect even more seek perfection.' Freer translations are 'keep trying to improve, strive for perfection.'"
       }, 
       "examples": [
@@ -4010,7 +4010,7 @@
         "zhHK": "一帆風順", 
         "zhPY": "yì fān fēng shùn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "帆 means 'sail' and M means 'favorable, smooth.' A literal translation is 'a sail full of favorable winds,' with a freer translation being 'smooth sailing, unimpeded progress, without a hitch.'"
       }, 
       "examples": [
@@ -4032,7 +4032,7 @@
         "zhHK": "審時度勢", 
         "zhPY": "shěn shí duó shì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "串 means 'examine,' 日寸 here means 'the times, the current situation,' 度 means 'estimate,' and 势 here means 'trend.' A literal translation of the whole idiom is 'examine the current situation and estimate what the trend is like,' with freer translations being 'judge the hour and size up the situation, observe the times and judge the occasion.'"
       }, 
       "examples": [
@@ -4054,7 +4054,7 @@
         "zhHK": "談何容易", 
         "zhPY": "tán hé róng yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "何 here means 'how.' The literal meaning is 'to talk about it how is it easy,' with a freer translation being 'easier said than done, not at all easy.'"
       }, 
       "examples": [
@@ -4076,7 +4076,7 @@
         "zhHK": "大勢所趨", 
         "zhPY": "dà shì suŏ qū"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "大 means 'overall,' 势 means 'tendency,' and 趋 means 'tend towards.' A literal translation of the whole idiom is 'the direction in which the overall tendency is moving in,' with freer translations being 'the general trend of things' or 'the trend of the times.'"
       }, 
       "examples": [
@@ -4098,7 +4098,7 @@
         "zhHK": "潛移默化", 
         "zhPY": "qián yí mò huà"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "潜 means 'hidden,' 移 means 'move,' 默 means 'silent,' and 化 means 'change.' A literal translation of the whole idiom is 'hidden move and silent change,' with freer translations being 'influence subtly or imperceptibly.'"
       }, 
       "examples": [
@@ -4120,7 +4120,7 @@
         "zhHK": "掉以輕心", 
         "zhPY": "diào yĭ qīng xīn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "掉 here means 'swing' and 轻心、means 'careless, casual.' A literal translation of the whole idiom is 'careless as you swing something.' The meaning is 'treat something lightly, become complacent, lower one's guard.'"
       }, 
       "examples": [
@@ -4142,7 +4142,7 @@
         "zhHK": "此起彼伏", 
         "zhPY": "cĭ qĭ bĭ fú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "此 means 'this one,' 起 means 'rise,' 彼 means 'that one,' and 伏 means 'go down.' A literal translation of the whole idiom is 'this one rises that one goes down,' with freer translations including 'one rises while another falls,' 'in rapid succession,' and 'continuously.'"
       }, 
       "examples": [
@@ -4164,7 +4164,7 @@
         "zhHK": "名落孫山", 
         "zhPY": "míng luò Sūn Shān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "名 means 'name, rank,' 落 means 'fall behind,' and 孙山 is the name of a person. A literal translation of the whole idiom is 'one's name falls behind Sun Shan,' with freer translations being 'fail to pass an examination, fail to be a successful candidate.'"
       }, 
       "examples": [
@@ -4186,7 +4186,7 @@
         "zhHK": "引人人勝", 
         "zhPY": "yĭn rén rù shèng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "引 I means 'lead' and 胜 means 'beautiful, wonderful.' A literal translation of this idiom is 'lead people to enter a beautiful place.' The meaning of the whole idiom as now used is usually 'fascinating, absorbing, mesmerizing.'"
       }, 
       "examples": [
@@ -4208,7 +4208,7 @@
         "zhHK": "不堪設想", 
         "zhPY": "bù kān shè xiăng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "堪 means 'can' and 设想 means 'imagine.' The whole idiom means 'unbearable to contemplate, unthinkable, inconceivable.'"
       }, 
       "examples": [
@@ -4230,7 +4230,7 @@
         "zhHK": "義無反顧", 
         "zhPY": "yì wú făn gù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "义 means 'obligation' and 汉顾 means 'look back, change one's mind.' The meaning of the whole idiom is 'duty-bound not to turn back, one should not hesitate concerning one's obligations.'"
       }, 
       "examples": [
@@ -4252,7 +4252,7 @@
         "zhHK": "煥然一新", 
         "zhPY": "huàn rán yì xīn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "焕然 means 'bright, shining.' A literal translation of the whole idiom is 'in a bright and shining manner and completely new,' with freer translations being 'look brand-new, change beyond recognition.'"
       }, 
       "examples": [
@@ -4274,7 +4274,7 @@
         "zhHK": "一視同仁", 
         "zhPY": "yí shì tóng rén"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "视 here means 'look upon as, treat as,' 同 means 'same,' and 仁 means 'benevolence, kindheartedness.' A literal translation of the whole idiom is 'all treat same kindheartedness,' with a freer translation being 'give equal or impartial treatment to all.'"
       }, 
       "examples": [
@@ -4296,7 +4296,7 @@
         "zhHK": "五顔六色", 
         "zhPY": "wǔ yán liù sè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "颜 means 'color' and 色 means 'color.' The meaning of the whole idiom is 'all kinds of colors, a variety of colors, multicolored.'"
       }, 
       "examples": [
@@ -4318,7 +4318,7 @@
         "zhHK": "束手無策", 
         "zhPY": "shù shŏu wú cè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "束 means 'bind, tie up' and 策 means 'plan.' The literal meaning is 'bind up one's hands and be without a strategy,' with a freer translation being 'at a complete loss about what to do.'"
       }, 
       "examples": [
@@ -4340,7 +4340,7 @@
         "zhHK": "十字路口", 
         "zhPY": "shí zì lù kŏu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'a street intersection shaped like the character 十\"ten\" (i.e, like a cross or an X-shape).' This idiom is frequently used in the literal sense. However, it has gained an extended meaning of 'crossroads,' i.e., a situation of having arrived at a time or place where one must make an important choice."
       }, 
       "examples": [
@@ -4362,7 +4362,7 @@
         "zhHK": "與日俱增", 
         "zhPY": "yǔ rì jù zēng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "与 means 'with,' 日 means 'days,' 俱 means 'together,' and 增 means 'increase.' A literal translation of the whole idiom is 'with the days together increase,' with a freer translation being 'grow day by day, be on the increase.'"
       }, 
       "examples": [
@@ -4384,7 +4384,7 @@
         "zhHK": "拔苗助長", 
         "zhPY": "bá miáo zhù zhàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "拔 means 'pull up,' 苗 means 'seedling, shoot,' 助 means 'help,' and 长 means 'grow.' The literal meaning of this idiom is 'pull up shoots to help them grow,' with freer translations including 'spoil things by trying to be too helpful, spoil by undue haste, haste makes waste.'"
       }, 
       "examples": [
@@ -4406,7 +4406,7 @@
         "zhHK": "博大精深", 
         "zhPY": "bó dà jīng shēn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "博 means 'broad,' 精 means 'proficient,' and 深 means 'deep.' The whole idiom means 'broad and profound, vast and profound.'"
       }, 
       "examples": [
@@ -4428,7 +4428,7 @@
         "zhHK": "喜氣洋洋", 
         "zhPY": "xĭ qì yáng yáng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "喜气 means 'happy mood or atmosphere' and 洋洋 means 'content.' The meaning of the whole idiom is 'very cheerful and joyful, jubilant.'"
       }, 
       "examples": [
@@ -4450,7 +4450,7 @@
         "zhHK": "不可或缺", 
         "zhPY": "bù kě huò quē"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "或 means 'a little' and 缺 means 'lack.' A literal translation of the whole idiom is 'not can even a little lack,' with freer translations being 'indispensable, absolutely essential.'"
       }, 
       "examples": [
@@ -4472,7 +4472,7 @@
         "zhHK": "顺理成章", 
         "zhPY": "shùn lǐ chéng zhāng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "顺 means 'according to,'理 means 'reason,' and 章 means 'order.' A literal translation is 'according to reason achieve order.' A freer translation of this idiom would be 'do something in a reasonable and orderly manner, logical, rational.'"
       }, 
       "examples": [
@@ -4494,7 +4494,7 @@
         "zhHK": "大刀闊斧", 
         "zhPY": "dà dāo kuò fǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "阔 means 'wide' and 斧 means 'axe.' The literal meaning of the whole idiom is 'big knife and wide axe.' A freer translation is 'bold and resolute.'"
       }, 
       "examples": [
@@ -4516,7 +4516,7 @@
         "zhHK": "不遺餘力", 
         "zhPY": "bù yí yú lì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "遗 means 'hold back' and 余 means 'surplus, remaining.' A literal translation is 'not hold back surplus effort,' with freer translations of the whole idiom being 'spare no efforts, do one's utmost.'"
       }, 
       "examples": [
@@ -4538,7 +4538,7 @@
         "zhHK": "字裏行間", 
         "zhPY": "zì lǐ háng jiān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "行 means 'line.' The meaning of the whole idiom is 'between the lines.'"
       }, 
       "examples": [
@@ -4560,7 +4560,7 @@
         "zhHK": "不解之緣", 
         "zhPY": "bù jiě zhī yuán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "解 means 'untie, dissolve' and 缘 means 'predestined relationship, fate.' A literal translation of the whole idiom is 'a predestined relationship that one cannot dissolve.' Freer translations of the idiom include 'indissoluble bond, very close connection.'"
       }, 
       "examples": [
@@ -4582,7 +4582,7 @@
         "zhHK": "一無所有", 
         "zhPY": "yì wú suō yǒu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The meaning of this idiom is 'have absolutely nothing, penniless, destitute.'"
       }, 
       "examples": [
@@ -4604,7 +4604,7 @@
         "zhHK": "守株待免", 
         "zhPY": "shǒu zhū dài tù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "守 means 'guard or keep watch over,'株 means 'tree stump,'待 means 'await,' and 兔 means 'hare, rabbit,' The literal meaning is 'keep watch over a tree stump waiting for hares (to come and dash themselves against it).' A freer translation is 'wait passively for a windfall, wait for gains without pains, trust chance and windfalls.'"
       }, 
       "examples": [
@@ -4626,7 +4626,7 @@
         "zhHK": "百花齊放", 
         "zhPY": "bǎi huā qí fàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "百花 means 'all kinds of flowers,'齐 means 'together,'放 means 'bloom.' The literal meaning is 'all kinds of flowers bloom at the same time.' An extended meaning is 'different points of view exist simultaneously.'"
       }, 
       "examples": [
@@ -4648,7 +4648,7 @@
         "zhHK": "力不從心", 
         "zhPY": "lì bù cóng xīn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "从 here means 'follow.' A literal translation of the whole idiom is 'one's strength does not follow one's heart,' with freer translations being 'lack the ability to do what one would like to do.'"
       }, 
       "examples": [
@@ -4670,7 +4670,7 @@
         "zhHK": "異口同聲", 
         "zhPY": "yì kǒu tóng shēng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "异 means 'different,' 口 means 'mouth,' and 声 means 'voice.' A literal translation of this idiom is 'different mouths same sound.' A freer translation is 'with one voice, in unison, in concert.'"
       }, 
       "examples": [
@@ -4692,7 +4692,7 @@
         "zhHK": "背道而馳", 
         "zhPY": "bèi dào ér chí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "背 here means 'opposing,'道 means 'road,' and 驰 means 'run.' A literal translation of the whole idiom is 'run on the opposing road,' with freer translations being 'run counter to, diametrically opposed to.'"
       }, 
       "examples": [
@@ -4714,7 +4714,7 @@
         "zhHK": "勢在必行", 
         "zhPY": "shì zài bì xíng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'imperative under the situation.'"
       }, 
       "examples": [
@@ -4736,7 +4736,7 @@
         "zhHK": "當之無愧", 
         "zhPY": "dāng zhī wú kuì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "当 means 'take on, accept,' 之 means 'it,' and 愦 means 'shame.' A literal translation of the whole idiom is 'accept it not have shame.' Freer translations of the idiom include 'deserve, merit, be worthy of.'"
       }, 
       "examples": [
@@ -4758,7 +4758,7 @@
         "zhHK": "咄咄逼人", 
         "zhPY": "duō duō bī rén"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "咄咄 is an interjection indicating surprise,逼 means 'force,' and 逼人 means 'threatening.' The meaning of the whole idiom is 'threatening and overbearing.'"
       }, 
       "examples": [
@@ -4780,7 +4780,7 @@
         "zhHK": "四通八達", 
         "zhPY": "sì tōng bā dá"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "通 means 'pass through freely without impediment' and 达 means 'reach or extend to without obstruction.' A literal translation of the whole idiom is 'four (sides) pass through freely and eight (directions) extend to without obstruction.' This usually describes very convenient transportation networks. A possible English translation is 'extend or radiate in all directions.'"
       }, 
       "examples": [
@@ -4802,7 +4802,7 @@
         "zhHK": "可歌可泣", 
         "zhPY": "kě gē kě qì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "泣means 'shed tears.' The literal meaning of this idiom is 'can sing can cry - moving people to songs and tears,' with a freer translation being 'inspiring, heroic and moving.'"
       }, 
       "examples": [
@@ -4824,7 +4824,7 @@
         "zhHK": "驚弓之鳥", 
         "zhPY": "jīng gōng zhī niǎo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "惊 means 'frightened of' and 弓 means 'bow (as in bow and arrow).' A literal translation of the whole idiom is 'a bird that is frightened of a bow.' This is a metaphor for someone who is frightened because of past experience. A possible translation is 'once bitten twice shy.'"
       }, 
       "examples": [
@@ -4846,7 +4846,7 @@
         "zhHK": "真心實意", 
         "zhPY": "zhēn xīn shí yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "真心 means 'true heart' and实意means 'real intention.' A literal translation of this idiom is 'true heart real intention,' with a freer translation being 'sincere, wholehearted.'"
       }, 
       "examples": [
@@ -4868,7 +4868,7 @@
         "zhHK": "恰到好處", 
         "zhPY": "qià dào hǎo chù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "恰 means 'just, exactly' and 好处 here means 'good place, best situation.' The meaning of the whole idiom is 'just right.'"
       }, 
       "examples": [
@@ -4890,7 +4890,7 @@
         "zhHK": "津津樂道", 
         "zhPY": "jīn jīn lè dào"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "津means 'saliva,' 津津 means 'succulent, tasty,'乐 means 'happy to, love to,' and 道 means 'say, talk about.' The meaning of the whole idiom is 'love to talk about, dwell on.'"
       }, 
       "examples": [
@@ -4912,7 +4912,7 @@
         "zhHK": "取長補短", 
         "zhPY": "qǔ cháng bǔ duǎn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "取 means 'take,'长 means 'strong point,'补 means 'make up for,' and 短 means 'shortcoming.' A literal translation of the whole idiom is 'take strong points make up for shortcomings,' with a freer translation being 'draw on the strong points of others to make up for one's own deficiencies.'"
       }, 
       "examples": [
@@ -4934,7 +4934,7 @@
         "zhHK": "喜出望外", 
         "zhPY": "xǐ chū wàng wài"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "望 means 'one's hopes.' A literal translation of this idiom is 'one's happiness exceeds outside of one's hopes,' with a freer translation being 'overjoyed at unexpected good luck, pleasantly surprised.' "
       }, 
       "examples": [
@@ -4956,7 +4956,7 @@
         "zhHK": "本來面目", 
         "zhPY": "běn lái miàn mù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "本来 means 'original,' while 面目 means 'appearance.' The whole idiom means 'true colors' or 'true qualities.'"
       }, 
       "examples": [
@@ -4978,7 +4978,7 @@
         "zhHK": "膾炙人口", 
         "zhPY": "kuài zhì rén kǒu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "脍 means 'minced meat,' 炙 means 'roasted meat,' and 人口 here means 'people's mouths.' A literal translation of the whole idiom is 'minced meat and roasted meat in people's mouths.' The original meaning was 'having a delicious taste,' but the idiom nowadays means 'liked by all, very popular, praised by all, on everyone's lips.'"
       }, 
       "examples": [
@@ -5000,7 +5000,7 @@
         "zhHK": "自由自在", 
         "zhPY": "zì yóu zì zài"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "Since 自由 means 'free' and 自在 means 'unrestrained,' this idiom means 'free and unrestrained.'"
       }, 
       "examples": [
@@ -5022,7 +5022,7 @@
         "zhHK": "氣喘吁吁", 
         "zhPY": "qì chuǎn xū xū"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "喘 means 'gasp for breath, pant' and 吁吁 is the sound of panting. The meaning of the whole idiom is 'gasp for breath, pant.'"
       }, 
       "examples": [
@@ -5044,7 +5044,7 @@
         "zhHK": "畫蛇添足", 
         "zhPY": "huà shé tiān zú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "画 means 'draw,' 蛇 means 'snake,' 添 means 'add,' and 足 means 'foot.' The literal meaning of this idiom is 'draw a snake and add feet.' The meaning is 'add something superfluous and thereby ruin the effect.'"
       }, 
       "examples": [
@@ -5066,7 +5066,7 @@
         "zhHK": "座無虛席", 
         "zhPY": "zuò wú xū xí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "座 means 'seat,'虚 means 'empty,' and 席 also means 'seat, place.' A literal translation of the whole idiom is 'as regards seats there are no empty seats,' with freer translations being 'a packed house, standing room only.'"
       }, 
       "examples": [
@@ -5088,7 +5088,7 @@
         "zhHK": "夜以繼日", 
         "zhPY": "yè yǐ jì rì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "以 means 'use' and 继 means 'continue.' A literal translation of the whole idiom is 'using night to continue the day,' with a freer translation being 'day and night.'"
       }, 
       "examples": [
@@ -5110,7 +5110,7 @@
         "zhHK": "持之以恆", 
         "zhPY": "chí zhī yǐ héng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "持 means 'hold,'之 means 'it,'以 means 'take, use,' and 恒 means 'permanence.' A literal translation of the whole idiom is 'hold it with permanence.' This idiom is used with the meaning 'persevere, persist.'"
       }, 
       "examples": [
@@ -5132,7 +5132,7 @@
         "zhHK": "針鋒相對", 
         "zhPY": "zhēn fēng xiāng duì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "针锋 means 'pinpoint' and 相对means 'diametrically opposed, opposite.' A literal translation of this idiom is 'pinpoints diametrically opposed,' that is, the point of one pin being precisely against the point of another pin. A freer translation is 'in sharp opposition, give tit for tat.'"
       }, 
       "examples": [
@@ -5154,7 +5154,7 @@
         "zhHK": "相得益彰", 
         "zhPY": "xiāng dé yì zhāng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "相 means 'mutually,'得 means 'obtain,' 益 means 'even more,' and 彰 means 'clear, obvious.' The meaning of the whole idiom is 'mutual coordination makes the results even better' or 'each improves by association with the other.' In freer translation, this can be rendered as 'bring out the best in each other, complement each other.'"
       }, 
       "examples": [
@@ -5176,7 +5176,7 @@
         "zhHK": "念念不忘", 
         "zhPY": "niàn niàn bú wàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "念 here means 'think of.' The meaning of the whole idiom is 'never forget, constantly bear in mind.'"
       }, 
       "examples": [
@@ -5198,7 +5198,7 @@
         "zhHK": "深思熟慮", 
         "zhPY": "shēn sī shú lǜ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "熟 means 'mature, thorough' and 虑 means 'consider.' The literal meaning is 'deeply think thoroughly consider,' with a freer translation being 'careful deliberation or consideration.'"
       }, 
       "examples": [
@@ -5220,7 +5220,7 @@
         "zhHK": "獨樹一幟", 
         "zhPY": "dú shù yí zhì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "独 means 'alone,'树 here means 'set up,' and 帜 means 'flag.'"
       }, 
       "examples": [
@@ -5242,7 +5242,7 @@
         "zhHK": "驚天動地", 
         "zhPY": "jīng tiān dòng dì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "惊天 means 'startle or surprise the heavens' and 动地 means 'move the earth.' The meaning of the whole idiom is 'earthshaking, resounding.'"
       }, 
       "examples": [
@@ -5264,7 +5264,7 @@
         "zhHK": "東窗事發", 
         "zhPY": "dōng chuāng shì fā"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "窗means 'window' and 发 means 'discovered.' A literal translation of the whole idiom is 'the matter by the east window has been discovered.' This is a metaphor for intrigue that has failed and been exposed. English equivalents include 'the plot has come to light' and 'the secret is out.'"
       }, 
       "examples": [
@@ -5286,7 +5286,7 @@
         "zhHK": "鋪天蓋地", 
         "zhPY": "pū tiān gài dì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "铺 means 'spread out' and 盖 means 'cover.' The meaning of the whole idiom is 'cover the earth, omnipresent.'"
       }, 
       "examples": [
@@ -5308,7 +5308,7 @@
         "zhHK": "大張旗鼓", 
         "zhPY": "dà zhāng qí gǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "张 means 'open' and 旗鼓 means 'banners and drums.' The literal meaning of the idiom is 'open up banners and drums on a large scale (as in war) '; a freer translation is 'with a lot of fanfare, on a grand scale.'"
       }, 
       "examples": [
@@ -5330,7 +5330,7 @@
         "zhHK": "彬彬有禮", 
         "zhPY": "bīn bīn yǒu lǐ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "彬彬 means 'refined, elegant' and 有礼 means 'courteous.' The whole idiom means 'refined and well-mannered.'"
       }, 
       "examples": [
@@ -5352,7 +5352,7 @@
         "zhHK": "熙熙攘攘", 
         "zhPY": "xī xī rǎng rǎng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "熙熙means 'gentle, happy' and 攘攘 means 'disorderly, chaotic.' The meaning of the whole idiom is 'crowded, bustling, busy.'"
       }, 
       "examples": [
@@ -5374,7 +5374,7 @@
         "zhHK": "無影無蹤", 
         "zhPY": "wú yǐng wú zōng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "影 means 'shadow' and 踪 means 'track, trace.' A literal translation is 'there is no shadow and there is no trace.' A freer translation of this idiom is 'vanish without a trace' or simply 'without a trace.'"
       }, 
       "examples": [
@@ -5396,7 +5396,7 @@
         "zhHK": "至高無上", 
         "zhPY": "zhì gāo wú shàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "至 means 'most.' A literal translation of this idiom is 'most high there is not higher,' with freer translations including 'highest' and 'supreme.'"
       }, 
       "examples": [
@@ -5418,7 +5418,7 @@
         "zhHK": "司空見慣", 
         "zhPY": "sī kōng jiàn guàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "司 空 was the title of an official in ancient China;惯 means 'become accustomed to.' The literal meaning is 'the Sikong official has gotten used to seeing things,' with a freer translation being 'to see so many things that you have gotten used to seeing almost anything and find nothing strange anymore.'"
       }, 
       "examples": [
@@ -5440,7 +5440,7 @@
         "zhHK": "接二連三", 
         "zhPY": "jiē èr lián sān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of this idiom is 'join two link three' (the numbers 二 and 三 here have no particular meaning). The meaning of the whole idiom is 'one after another, repeatedly, in rapid succession.'"
       }, 
       "examples": [
@@ -5462,7 +5462,7 @@
         "zhHK": "斬釘截鐵", 
         "zhPY": "zhǎn dīng jié tiě"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "斩 means 'cut, chop,'钉 means 'nail,'截 means 'cut, sever,' and 铁 means 'iron.' A literal translation of this idiom is 'cut a nail and sever iron,' which by metaphor means 'firm and resolute, decisive.' "
       }, 
       "examples": [
@@ -5484,7 +5484,7 @@
         "zhHK": "濫竽充敷", 
         "zhPY": "làn yú chōng shù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "滥 means 'excess,'竽 is the name for a musical instrument somewhat like a flute, and 充数 means 'make up a number.' A literal translation of the whole idiom is 'excess "
       }, 
       "examples": [
@@ -5506,7 +5506,7 @@
         "zhHK": "不擇手段", 
         "zhPY": "bù zé shǒu duàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "择 means 'choose' and 手段 means 'method, means.' The meaning of the whole idiom is 'resort to any means, stop at nothing.'"
       }, 
       "examples": [
@@ -5528,7 +5528,7 @@
         "zhHK": "津津有味", 
         "zhPY": "jīn jīn yǒu wèi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "津 means 'saliva,' 津津means 'succulent, tasty,' and 有味 means 'have flavor, tasty.' The meaning of the whole idiom is '(do something) with gusto.'"
       }, 
       "examples": [
@@ -5550,7 +5550,7 @@
         "zhHK": "深入淺出", 
         "zhPY": "shēn rù qiǎn chū"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "深 means 'deep' and 浅 means 'shallow.' The literal translation is 'deeply enter and shallowly come out.' This idiom refers to speech or writing with deep content that is expressed in a way that is easy to understand. The idiom can be translated as 'explain profound things in simple language, make something complicated sound simple.'"
       }, 
       "examples": [
@@ -5572,7 +5572,7 @@
         "zhHK": "相提並論", 
         "zhPY": "xiāng tí bìng lùn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "相 means 'mutually,'提 means 'mention,'并 means 'simultaneously,' and 论 means 'discuss.' The meaning of the whole idiom is 'talk about two different people or things at the same time, mention in the same breath.'"
       }, 
       "examples": [
@@ -5594,7 +5594,7 @@
         "zhHK": "深惡痛絕", 
         "zhPY": "shēn wù tòng jué"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "深 means 'deeply,' 恶 means 'hate,' 痛 also means 'hate,' and 绝 means 'extremely.' A literal translation of the whole idiom is 'deeply hate and hate extremely,' with freer translations being 'abhor, detest.'"
       }, 
       "examples": [
@@ -5616,7 +5616,7 @@
         "zhHK": "不可多得", 
         "zhPY": "bù kě duō dé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "可 means 'can' and 得 means 'obtain, get.' The whole idiom means 'hard to come by, uncommon.'"
       }, 
       "examples": [
@@ -5638,7 +5638,7 @@
         "zhHK": "沸沸揚揚", 
         "zhPY": "fèi fèi yáng yáng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "沸沸 describes the appearance of boiling water and 扬 means 'rise.' The meaning of the whole idiom is 'noisy, tumultuous, raging.'"
       }, 
       "examples": [
@@ -5660,7 +5660,7 @@
         "zhHK": "雪上加霜", 
         "zhPY": "xuě shàng jiā shuāng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "雪 means 'snow,' 加 means 'add,' 霜 means 'frost.' A literal translation of the whole idiom is 'on top of snow to add frost,' with freer translations being 'make a bad situation even worse, exacerbate.'"
       }, 
       "examples": [
@@ -5682,7 +5682,7 @@
         "zhHK": "風塵僕僕", 
         "zhPY": "fēng chén pú pú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "风尘 means 'wind and dust - travel' and 仆仆 means 'fatigue from travel.' The meaning of the whole idiom is 'fatigued from travel.'"
       }, 
       "examples": [
@@ -5704,7 +5704,7 @@
         "zhHK": "朝三暮四", 
         "zhPY": "zhāo sān mù sì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "朝 means 'morning' and 暮 means 'evening, dusk.' The literal meaning is 'in the morning three and in the evening four.' English translations include 'fickle and inconstant, change one's mind frequently, six of one and half a dozen of the other.'"
       }, 
       "examples": [
@@ -5726,7 +5726,7 @@
         "zhHK": "心平氣和", 
         "zhPY": "xīn píng qì hé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "平 means 'peaceful,' 气 means 'spirit,' and 和 means 'harmonious.' A literal translation of this idiom is therefore 'heart peaceful spirit harmonious.' A freer translation is 'in a calm mood, with a gentle disposition, in an even-tempered manner.'"
       }, 
       "examples": [
@@ -5748,7 +5748,7 @@
         "zhHK": "德高望重", 
         "zhPY": "dé gāo wàng zhòng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "德 means 'moral character,' 重 means 'prestige,' and 望 here means 'weighty, heavy, considerable.' A literal translation of the whole idiom is 'character high prestige considerable,' with a freer translation being 'of noble character and high prestige.'"
       }, 
       "examples": [
@@ -5770,7 +5770,7 @@
         "zhHK": "燃眉之急", 
         "zhPY": "rán méi zhī jí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "燃 means 'burn,' 眉 means 'eyebrow,' and 急 means 'urgency.' A literal translation of the whole idiom is 'the urgency of fire singeing the eyebrows,' with a freer translation being 'a matter of great urgency.'"
       }, 
       "examples": [
@@ -5792,7 +5792,7 @@
         "zhHK": "不厭其煩", 
         "zhPY": "bú yàn qí fán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "厌 means 'dislike,' 其 means 'its,' and 烦 means 'trouble.' The whole idiom means 'not mind the trouble, with great patience, tirelessly.'"
       }, 
       "examples": [
@@ -5814,7 +5814,7 @@
         "zhHK": "別出心裁", 
         "zhPY": "bié chū xīn cái"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "别 means 'another, different,' 出 means 'come out with, produce,' and 心裁 means 'idea, concept.' A literal translation of the whole idiom is 'come out with a different plan or concept,' with freer translations being 'have an unconventional idea, adopt an original approach.'"
       }, 
       "examples": [
@@ -5836,7 +5836,7 @@
         "zhHK": "不見經傳", 
         "zhPY": "bú jiàn jīng zhuàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "经传 means 'classics.' A literal translation is 'something not seen in the classics.' A freer translation is 'unattested by historical records, unknown.'"
       }, 
       "examples": [
@@ -5858,7 +5858,7 @@
         "zhHK": "蔚然成風", 
         "zhPY": "wèi rán chéng fēng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "尉然 means 'luxuriant, magnificent' and 风 here means 'established practice or custom.' A literal translation of the whole idiom is 'magnificently become the custom.' A freer translation of the idiom is 'become common practice.'"
       }, 
       "examples": [
@@ -5880,7 +5880,7 @@
         "zhHK": "大驚小怪", 
         "zhPY": "dà jīng xiăo guài"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The meaning of this idiom is 'get excited over little things, make a big fuss about nothing.'"
       }, 
       "examples": [
@@ -5902,7 +5902,7 @@
         "zhHK": "千半萬苦", 
         "zhPY": "qiān xīn wàn kǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'a thousand pains and ten thousand bitternesses.' The meaning of the idiom is 'countless sufferings, innumerable hardships.'"
       }, 
       "examples": [
@@ -5924,7 +5924,7 @@
         "zhHK": "東施效顰", 
         "zhPY": "Dōng Shī xiào pín"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "东施 is the name of a fictional person in the Spring and Autumn Period in Chinese history, 效 means 'imitate,' and 颦 means 'knit the brows, frown.' A literal translation of the whole idiom is 'Dong Shi imitates (the famous beauty Xi Shi) in knitting her eyebrows (and ends up looking even uglier).' This is a metaphor for 'imitate others only to make a fool of oneself.'"
       }, 
       "examples": [
@@ -5946,7 +5946,7 @@
         "zhHK": "因勢利導", 
         "zhPY": "yīn shì lì dăo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "因 here means 'according to,' 势 means 'situation,' and 利导 means 'skillfully guide.' A literal translation of the whole idiom is 'according to the situation skillfully guide (action),' with a freer translation being 'guided by the circumstances.'"
       }, 
       "examples": [
@@ -5968,7 +5968,7 @@
         "zhHK": "千里迢迢", 
         "zhPY": "qiān lĭ tiáo tiáo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "迢迢 means 'far away.' The meaning of the whole idiom is 'thousands of miles away, far away.'"
       }, 
       "examples": [
@@ -5990,7 +5990,7 @@
         "zhHK": "格格不入", 
         "zhPY": "gé gé bú rù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "格格 means 'obstruct.' The meaning of the whole idiom is 'incompatible with, incongruous with.'"
       }, 
       "examples": [
@@ -6012,7 +6012,7 @@
         "zhHK": "如火如茶", 
         "zhPY": "rú huŏ rú tú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "荼 means 'the white flowers of cogon grass.' The literal meaning of this idiom is 'as (red as) fire and as (white as) cogon grass flowers,' with freer translations being 'like a raging fire, with great fervor, flourishing.'"
       }, 
       "examples": [
@@ -6034,7 +6034,7 @@
         "zhHK": "肅然起敬", 
         "zhPY": "sù rán qĭ jìng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "肃然 means 'with great respect,' 起 means 'give rise to,' and 敬 means 'respect.' The meaning of the whole idiom is 'suddenly have great respect or reverence for.'"
       }, 
       "examples": [
@@ -6056,7 +6056,7 @@
         "zhHK": "揚長避短", 
         "zhPY": "yáng cháng bì duăn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "扬 means 'raise,' 长 means 'strong point,' 避 means 'avoid,' and 短 means 'shortcoming.' A literal translation of the whole idiom is 'raise strong points avoid shortcomings,' with a freer translation being 'enhance one's strong points and avoid any weaknesses.'"
       }, 
       "examples": [
@@ -6078,7 +6078,7 @@
         "zhHK": "蒸蒸日上", 
         "zhPY": "zhēng zhēng rì shàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "蒸蒸 means 'thriving' and 日上 means 'improving day by day.' The meaning of the whole idiom is 'become more thriving and flourishing each day, progress day by day.'"
       }, 
       "examples": [
@@ -6100,7 +6100,7 @@
         "zhHK": "胸有成竹", 
         "zhPY": "xiōng yŏu chéng zhú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "胸 means 'chest, thorax,' 成 means 'fully developed,' and 竹 means 'bamboo.' The literal meaning is '(when about to draw bamboo,) in the chest there is fully developed bamboo.' English translations include 'have a well thought out plan, have a whole idea in one's mind, have a card up one's sleeve.'"
       }, 
       "examples": [
@@ -6122,7 +6122,7 @@
         "zhHK": "肆無忌憚", 
         "zhPY": "sì wú jì dàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "肆 means 'unrestrained,' 忌 means 'scruples, misgivings,' and 惮 means 'fear.' The literal meaning is 'unrestrained and not have any scruples or fear,' with a freer translation being 'unscrupulous, unbridled.'"
       }, 
       "examples": [
@@ -6144,7 +6144,7 @@
         "zhHK": "囫圇呑棗", 
         "zhPY": "hú lún tūn zăo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "囫囵 means 'whole, complete,' 吞 means 'swallow,' and 枣 means 'date.' A literal translation is 'swallow a date whole,' with a freer translation being 'study or read something without thinking it through carefully' or 'accept something uncritically without careful consideration.'"
       }, 
       "examples": [
@@ -6166,7 +6166,7 @@
         "zhHK": "異乎尋常", 
         "zhPY": "yì hū xún cháng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "异 means 'different,' 乎 here means 'from,' and 寻常 means 'ordinary, common.' A literal translation is 'different from the ordinary,' with a freer translation being 'unusual, uncommon, extraordinary.'"
       }, 
       "examples": [
@@ -6188,7 +6188,7 @@
         "zhHK": "賞心悦目", 
         "zhPY": "shāng xīn yuè mù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "赏心 here means 'please the mind' and 悦目 means 'please the eye.' The whole idiom means 'pleasing to the mind and the eye.'"
       }, 
       "examples": [
@@ -6210,7 +6210,7 @@
         "zhHK": "古往今来", 
         "zhPY": "gǔ wăng jīn lái"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The meaning of this idiom is 'through the ages, since time immemorial.'"
       }, 
       "examples": [
@@ -6232,7 +6232,7 @@
         "zhHK": "大有作為", 
         "zhPY": "dà yŏu zuò wéi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "大 here means 'greatly, very much' and 作为 means 'achievements, contributions.' A literal translation of the whole idiom is 'greatly have contributions.' Freer translations include 'able to develop one's ability to the fullest, have great prospects, have great potential.'"
       }, 
       "examples": [
@@ -6254,7 +6254,7 @@
         "zhHK": "集思廣益", 
         "zhPY": "jí sī guăng yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "集 means 'concentrate,' 思 means 'thought,' 广 means 'make wide,' and 益 means 'benefit.' A literal translation of the whole idiom is 'concentrate thoughts and enlarge the benefits,' with freer translations including 'benefit from a wide range of opinions' and 'profit by soliciting opinions from various sources.'"
       }, 
       "examples": [
@@ -6276,7 +6276,7 @@
         "zhHK": "一應俱全", 
         "zhPY": "yì yīng jù quán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "一应 means 'all, everything' and 倶全 means 'complete.' The meaning of the whole idiom is 'amply supplied with everything needed, complete with everything.'"
       }, 
       "examples": [
@@ -6298,7 +6298,7 @@
         "zhHK": "不得而知", 
         "zhPY": "bù dé ér zhī"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "得 means 'can' while 知 means 'know.' 而 here has no meaning, only contributing a syllable so that the idiom can have the standard four syllables. The meaning of the whole idiom is 'cannot be known, unable to ascertain.'"
       }, 
       "examples": [
@@ -6320,7 +6320,7 @@
         "zhHK": "提心吊膽", 
         "zhPY": "tí xīn diào dăn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "提 here means 'carry,' 吊 means 'hang,' and 胆 means 'gallbladder.' The literal meaning is 'carry one's heart and hang one's gallbladder,' which can be translated as 'very worried, very much afraid.'"
       }, 
       "examples": [
@@ -6342,7 +6342,7 @@
         "zhHK": "貨真價實", 
         "zhPY": "huò zhēn jià shí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "货 means 'goods, merchandise,' 价 means 'price,' and 实 means 'honest, solid, reasonable.' The meaning of the whole idiom is 'genuine goods at reasonable prices.'"
       }, 
       "examples": [
@@ -6364,7 +6364,7 @@
         "zhHK": "雞犬升夭", 
         "zhPY": "jī quăn shēng tiān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "鸡 means 'chicken,' 犬 means 'dog,' and 升 means 'rise up to.' A literal translation of the whole idiom is '(his) chickens and dogs rise to heaven (with him).' By metaphor, this means that if someone becomes an official, the people who have a connection with him will also gain power, or that followers benefit when their leader gains power."
       }, 
       "examples": [
@@ -6386,7 +6386,7 @@
         "zhHK": "奮不顧身", 
         "zhPY": "fèn bú gù shēn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "奋 here means 'courageous,' 顾 means 'consider,' and 身 means 'one's own body.' A literal translation of the whole idiom is 'courageously not consider one's own body,' with a freer translation being 'act boldly without regard for one's own life.'"
       }, 
       "examples": [
@@ -6408,7 +6408,7 @@
         "zhHK": "精打細算", 
         "zhPY": "jīng dă xì suàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "精 means 'skilled,' 细 means 'meticulous,' and 打算 means 'plan.' The meaning of the whole idiom is 'careful planning and calculations.'"
       }, 
       "examples": [
@@ -6430,7 +6430,7 @@
         "zhHK": "目不轉睛", 
         "zhPY": "mù bù zhuān jīng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "目 here means 'look at,' 转; means 'turn,' and 睛 means 'eyeballs.' A literal translation of the whole idiom is 'look at but not turn the eyeballs,' with freer translations being 'fix the eyes on, look at with great concentration and attention.'"
       }, 
       "examples": [
@@ -6452,7 +6452,7 @@
         "zhHK": "車水馬龍", 
         "zhPY": "chē shuĭ mā lóng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The 车 or 'vehicles' (originally horse carriages) are like 流水'flowing water,' and the 马 or 'horses' are like playing dragons. The meaning of the whole idiom is 'a steady stream of.'"
       }, 
       "examples": [
@@ -6474,7 +6474,7 @@
         "zhHK": "一望無際", 
         "zhPY": "yí wàng wú jì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "望 means 'see, gaze' and 际 means 'border, boundary.' A literal translation of this idiom is 'once you gaze there are no boundaries,' with a freer translation being 'stretch as far as the eye can see, boundless, vast.'"
       }, 
       "examples": [
@@ -6496,7 +6496,7 @@
         "zhHK": "一成不變", 
         "zhPY": "yì chéng bú biàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "成 means 'form, shape.' A literal translation of this idiom is 'once something takes shape, it doesn't change,' with a freer translation being 'fixed and unalterable, invariable.'"
       }, 
       "examples": [
@@ -6518,7 +6518,7 @@
         "zhHK": "脱口而出", 
         "zhPY": "tuó kŏu ér chū"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "脱 means 'break free from, escape from.' A literal translation of this idiom is 'escaping from the mouth to come out,' with freer translations including 'come out spontaneously, say without thinking, blurt out, let slip.'"
       }, 
       "examples": [
@@ -6540,7 +6540,7 @@
         "zhHK": "生氣勃勃", 
         "zhPY": "shēng qì bó bó"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "生'3 means 'vitality' and 勃勃 means 'vigorous, exuberant.' The meaning of the whole idiom is 'full of vitality.'"
       }, 
       "examples": [
@@ -6562,7 +6562,7 @@
         "zhHK": "天經地義", 
         "zhPY": "tiān jīng dì yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning of this idiom is 'in accordance with the rules of heaven and the principles of earth - absolutely correct, entirely justified, unalterable.'"
       }, 
       "examples": [
@@ -6584,7 +6584,7 @@
         "zhHK": "狐假虎威", 
         "zhPY": "hú jiā hǔ wēi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "狐 means 'fox,' 假 means 'borrow,' 虎 means 'tiger,' and 威 means 'strength.' A literal translation of the whole idiom is 'a fox borrows the might of a tiger.' The extended meaning is 'rely on powerful connections with one person to bully another person.'"
       }, 
       "examples": [
@@ -6606,7 +6606,7 @@
         "zhHK": "瞭如指掌", 
         "zhPY": "liăo rú zhĭ zhăng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "了 means 'understand,' 如 means 'like,' and 指掌 means 'fingers and palms.' The literal meaning is 'understand as well as one's own fingers and palms,' with a freer translation being 'completely clear about, know someone or something from A to Z.'"
       }, 
       "examples": [
@@ -6628,7 +6628,7 @@
         "zhHK": "別有用心", 
         "zhPY": "bié yŏu yòng xīn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "别 means 'other, separate,' 有 means 'have,' and 用心 means 'intention, motive.' The whole idiom means 'harbor ulterior motives' or 'have something up one's sleeve.'"
       }, 
       "examples": [
@@ -6650,7 +6650,7 @@
         "zhHK": "五光十色", 
         "zhPY": "wǔ guāng shí sè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "光 means 'light' and 色 means 'color.' A literal translation is 'five lights and ten colors,' with a freer translation being 'all kinds of colors, multicolored.'"
       }, 
       "examples": [
@@ -6672,7 +6672,7 @@
         "zhHK": "不合時宜", 
         "zhPY": "bù hé shí yí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "合 means 'conform to,' 时 means 'at the time,' and 宜 means 'that which is appropriate.' The whole idiom means 'out of keeping with the times.'"
       }, 
       "examples": [
@@ -6694,7 +6694,7 @@
         "zhHK": "富麗堂皇", 
         "zhPY": "fù lì táng huáng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "富丽 means 'magnificent' and 堂皇 means 'grand.' The meaning of the whole idiom is 'magnificent and grand.'"
       }, 
       "examples": [
@@ -6716,7 +6716,7 @@
         "zhHK": "馬不停蹄", 
         "zhPY": "mă bù tíng tí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "蹄 means 'hoof.' The literal meaning is 'horse doesn't stop its hooves,' with a freer translation being 'nonstop, without stopping.'"
       }, 
       "examples": [
@@ -6738,7 +6738,7 @@
         "zhHK": "開門見山", 
         "zhPY": "kāi mén jiàn shān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning of this idiom is 'open the door and see the mountain,' with a freer translation being 'come straight to the point.'"
       }, 
       "examples": [
@@ -6760,7 +6760,7 @@
         "zhHK": "別具一格", 
         "zhPY": "bié jù yì gé "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "别 means 'other/another,'具 means 'have,' and 格 here means 'style.'"
       }, 
       "examples": [
@@ -6782,7 +6782,7 @@
         "zhHK": "一針見血", 
         "zhPY": "yì zhēn jiàn xiĕ "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "针 means 'needle' and 血 means 'blood.' A literal translation of this idiom is 'one (prick of a) needle and one sees blood.' Freer translations include 'exactly right, to the point, hit the nail on the head, go right to the heart of a matter.'"
       }, 
       "examples": [
@@ -6804,7 +6804,7 @@
         "zhHK": "草木皆兵", 
         "zhPY": "căo mù jiē bīng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "草 means 'grass,'木 means 'tree,'皆 means 'all,' and 兵 means 'soldier.' A literal translation of the whole idiom is 'the grass and the trees all (look like enemy) soldiers,' with a freer translation being 'frightened, panic-stricken.'"
       }, 
       "examples": [
@@ -6826,7 +6826,7 @@
         "zhHK": "専心致志", 
         "zhPY": "zhuān xīn zhì zhì "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "专心means 'concentrate one's attention,'致 means 'utmost,' and 志 means 'intention.' The meaning of the whole idiom is 'very attentive, with single-minded devotion.'"
       }, 
       "examples": [
@@ -6848,7 +6848,7 @@
         "zhHK": "堂堂正正", 
         "zhPY": "táng táng zhèng zhèng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "堂堂 means 'powerful manner' and 正正 means 'orderly manner.' The original meaning of this idiom was 'powerful and orderly' but the meaning has now become 'open and aboveboard, fair and square.'"
       }, 
       "examples": [
@@ -6870,7 +6870,7 @@
         "zhHK": "泣不成聲", 
         "zhPY": "qì bù chéng shēng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "泣 means 'cry in a low voice, sob' and 不成声 means 'it doesn't form a sound.' The meaning of the whole idiom is 'choke with sobs.'"
       }, 
       "examples": [
@@ -6892,7 +6892,7 @@
         "zhHK": "無與倫比", 
         "zhPY": "wú yŭ lún bĭ "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "伦 means 'peer, match.' The meaning of the whole idiom is 'unequaled, peerless, incomparable.'"
       }, 
       "examples": [
@@ -6914,7 +6914,7 @@
         "zhHK": "素不相識", 
         "zhPY": "sù bù xiāng shì "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "素 means 'always,'相 means 'mutually,' and 识 means 'know, be acquainted with.' The whole idiom means 'never have met someone before, not know someone.'"
       }, 
       "examples": [
@@ -6936,7 +6936,7 @@
         "zhHK": "堂而皇之", 
         "zhPY": "táng ér huáng zhī "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "堂皇 means 'imposing manner.' The meaning of the whole idiom is 'imposingly, ostentatiously, openly.'"
       }, 
       "examples": [
@@ -6958,7 +6958,7 @@
         "zhHK": "訓練有素", 
         "zhPY": "xùn liàn yǒu sù "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "训练 means 'train' and 素 means 'usually, always.' The meaning of the whole idiom is 'always in training, well trained.'"
       }, 
       "examples": [
@@ -6980,7 +6980,7 @@
         "zhHK": "刻骨銘心", 
         "zhPY": "kè gǔ míng xīn "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "刻骨 means 'carved on one's bones' and 铭心 means 'engraved on one's mind.' The meaning of the whole idiom is 'engraved on one's memory, unforgettable.'"
       }, 
       "examples": [
@@ -7002,7 +7002,7 @@
         "zhHK": "不屑一顧", 
         "zhPY": "bú xiè yí gù "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "屑 means 'deign to' and 顾 means 'look.' The whole idiom means 'not deign to look, be too conceited to even take a look.'"
       }, 
       "examples": [
@@ -7024,7 +7024,7 @@
         "zhHK": "對牛弾琴", 
         "zhPY": "duì niú tán qín "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "弹 means 'pluck, play' and 琴 means 'stringed instrument.' A literal translation is 'play the lute for cattle,' in other words, to discuss something complex with stupid people. English translations include 'talk over somebody's head, cast pearls to swine, preach to deaf ears, waste someone's time.'"
       }, 
       "examples": [
@@ -7046,7 +7046,7 @@
         "zhHK": "助人為樂", 
         "zhPY": "zhù rén wéi le "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "助 means 'help,'人 means 'other people,'刀 means 'be,' and 乐 means 'happiness.' A literal translation of the whole idiom is 'help other people is happiness,' with a freer translation being 'enjoy helping others.'"
       }, 
       "examples": [
@@ -7068,7 +7068,7 @@
         "zhHK": "衣食住行", 
         "zhPY": "yi shí zhù xíng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "衣 means 'clothing,' 食 means 'food,'住 here means 'housing,' and 行 here means 'transportation.' The literal meaning is 'clothing, food, housing, and transportation.' The connotation is 'the basic necessities of life.'"
       }, 
       "examples": [
@@ -7090,7 +7090,7 @@
         "zhHK": "不勝枚舉", 
         "zhPY": "bú shèng méi jǔ "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "不胜 means 'unable to do completely,'枚 means 'one at a time,' and 举 means 'enumerate, list.' A literal translation of the whole idiom is 'cannot enumerate one at a time,' with a freer translation being 'too numerous to cite individually.'"
       }, 
       "examples": [
@@ -7112,7 +7112,7 @@
         "zhHK": "讚不絕口", 
         "zhPY": "zàn bù jué kǒu "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "赞 means 'praise,'绝 means 'stop,' and 口 means 'mouth, talk.' A literal translation of this idiom is 'praise and not stop talking.' Freer translations include 'praise profusely, be full of praise.'"
       }, 
       "examples": [
@@ -7134,7 +7134,7 @@
         "zhHK": "大名鼎鼎", 
         "zhPY": "dà míng dĭng dĭng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "鼎鼎 means 'grand, magnificent.' The meaning of the whole idiom is 'famous, well known.'"
       }, 
       "examples": [
@@ -7156,7 +7156,7 @@
         "zhHK": "如數家珍", 
         "zhPY": "rú shǔ jiā zhēn "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "如 means 'like,'数 means 'count,'家 means 'family,' and 珍 means 'treasure.' A literal translation of the whole idiom is 'like counting family treasures,' with a freer translation being 'very familiar with one's subject.'"
       }, 
       "examples": [
@@ -7178,7 +7178,7 @@
         "zhHK": "躍躍欲試", 
         "zhPY": "yuè yuè yù shì "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "跃 usually means 'jump'; here,跃跃 means 'impatient, anxious, in a hurry.'欲 means 'want' and 试 means 'try.' Therefore, a literal translation of this idiom is 'impatiently want to try,' with a freer translation being 'eager to try.'"
       }, 
       "examples": [
@@ -7200,7 +7200,7 @@
         "zhHK": "古色古杳", 
         "zhPY": "gǔ sè gǔ xiāng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of this idiom is 'ancient color ancient flavor.' The meaning is 'antique, old-fashioned.'"
       }, 
       "examples": [
@@ -7222,7 +7222,7 @@
         "zhHK": "推波助瀾", 
         "zhPY": "tuī bō zhù lán "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "推 means 'push,'波 means 'wave,'助 means 'help,' and 澜 means 'billow, big wave.'"
       }, 
       "examples": [
@@ -7244,7 +7244,7 @@
         "zhHK": "班門弄斧", 
         "zhPY": "Bān mén nòng fǔ "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "班 refers to Lu Ban, the founder of carpentry in China,门 means 'front door,' 弄 means 'play with,' and 斧 means 'axe.' A literal translation is 'at the front door of Lu Ban's house to play with an axe.' This means 'show off one's meager skills before an expert and not know one's own limitations.'"
       }, 
       "examples": [
@@ -7266,7 +7266,7 @@
         "zhHK": "光明磊落", 
         "zhPY": "guāng míng lěi luò "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "光明 here means 'open' and 磊落 means 'candid, straightforward.' The meaning of the whole idiom is 'open and candid, frank and forthright.'"
       }, 
       "examples": [
@@ -7288,7 +7288,7 @@
         "zhHK": "川流不息", 
         "zhPY": "chuān liú bù xī "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "川 means 'river,'流 means 'flow,' and 息 means 'stop.' The meaning of the whole idiom is 'continuous flow.'"
       }, 
       "examples": [
@@ -7310,7 +7310,7 @@
         "zhHK": "迎刃而解", 
         "zhPY": "yíng rèn ér jiě "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "迎 means 'meet,'刃 means 'knife blade,' and 解 means 'split.' The whole idiom literally means 'meet blade and split.' This originally referred to the splitting of bamboo, since when the knife-edge cuts into the bamboo, it splits all the way down. A freer translation is 'easily solved.'"
       }, 
       "examples": [
@@ -7332,7 +7332,7 @@
         "zhHK": "對癥下藥", 
         "zhPY": "duì zhèng xià yào "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "对 means 'facing, be directed at,')正 means 'illness,' f here means 'prescribe,' and 药 means 'medicine.' A literal translation of the whole idiom is 'prescribe medicine that is directed at the illness,' with freer translations being 'suit the medicine to the illness' and 'act appropriately to the situation.'"
       }, 
       "examples": [
@@ -7354,7 +7354,7 @@
         "zhHK": "熱火朝夭", 
         "zhPY": "rè huǒ cháo tiān "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "This idiom describes an atmosphere that is enthusiastic, active, and energetic. Translations include 'bustling with activity, going ahead at full steam.'"
       }, 
       "examples": [
@@ -7376,7 +7376,7 @@
         "zhHK": "不足爲奇", 
         "zhPY": "bù zú wéi qí "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "足 means 'enough' or 'worth,'为 means 'be,' and 奇 means 'unusual.' The literal meaning of the whole idiom is 'not be enough to be considered strange' and a freer translation is 'not at all surprising, expected.'"
       }, 
       "examples": [
@@ -7398,7 +7398,7 @@
         "zhHK": "脱胎換骨", 
         "zhPY": "tuō tāi huàn gǔ "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "脱 means 'break free from, escape from,' 胎 means 'placenta,' fe means 'change,' and 骨 means 'bones.' A literal translation of this idiom is 'break free from one's placenta and change one's bones.' This was originally a Buddhist term referring to a monk or nun obtaining enlightenment. In current usage, the meaning of the whole idiom is 'reborn, remold oneself, turn over a new leaf.'"
       }, 
       "examples": [
@@ -7420,7 +7420,7 @@
         "zhHK": "揚眉吐氣", 
         "zhPY": "yáng méi tǔ qì "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "扬 means 'raise,'眉 means 'brow,' 吐 here means 'pour out,' and 气 here means 'resentment.' A literal translation of the whole idiom is 'lift one's brow and pour out one's resentment,' with freer translations being 'stand up with one's head held high' and 'feel proud and elated.'"
       }, 
       "examples": [
@@ -7442,7 +7442,7 @@
         "zhHK": "蕩然無存", 
         "zhPY": "dàng rán wú cún "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "荡 means 'cleanse, wash,'荡然 means 'clean,' and 无存 means 'with nothing remaining.' The meaning of the whole idiom is 'vanish without a trace.'"
       }, 
       "examples": [
@@ -7464,7 +7464,7 @@
         "zhHK": "葉公好龍", 
         "zhPY": "Yè gōng hào lóng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "叶 is a Chinese surname,公 was a term of respect for males in ancient China somewhat like 'Duke,' and 奸 means 'like.' A literal translation of the whole idiom is 'Duke Ye likes dragons.' This is a metaphor for 'on the surface to like something but actually not to like it at all' or 'pretend to like what one really dislikes or fears.'"
       }, 
       "examples": [
@@ -7486,7 +7486,7 @@
         "zhHK": "一脈相承", 
         "zhPY": "yí mài xiāng chéng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "脉 means 'blood vessel,'相 means 'mutually,' and 承 means 'succeed.' A literal translation of the whole idiom is '(with) one blood vessel to succeed one another.' Freer translations include 'come down in a continuous line, traced to the same origin, of the same lineage.'"
       }, 
       "examples": [
@@ -7508,7 +7508,7 @@
         "zhHK": "置之不理", 
         "zhPY": "zhì zhī bù lǐ "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "置 means 'put,'之 means 'it,' and fe means 'pay attention to.' A literal translation of the whole idiom is 'put it aside and not pay attention to it,' with a freer translation being 'pay no attention to, ignore.'"
       }, 
       "examples": [
@@ -7530,7 +7530,7 @@
         "zhHK": "身先士卒", 
         "zhPY": "shēn xiān shì zú "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "身 means 'oneself,'先 means 'in front of,' and 士毕 means 'rank-and-file soldiers.' The literal meaning of the idiom is 'oneself be in front of the rank-and-file soldiers,' with a freer translation being 'lead one's troops in a charge, provide leadership and set an example.'"
       }, 
       "examples": [
@@ -7552,7 +7552,7 @@
         "zhHK": "精神抖擻", 
         "zhPY": "jīng shén dǒu sǒu "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "抖擞 means 'stir up, rouse.' The meaning of the whole idiom is 'full of energy.'"
       }, 
       "examples": [
@@ -7574,7 +7574,7 @@
         "zhHK": "侃侃而談", 
         "zhPY": "kǎn kǎn ér tán "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "侃侃 means 'confident and unhurried.' The meaning of the whole idiom is 'speak with confidence and conviction.' "
       }, 
       "examples": [
@@ -7596,7 +7596,7 @@
         "zhHK": "誠心誠意", 
         "zhPY": "chéngxīn chéng yì "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "诚心means 'sincere heart' and 诚意means 'sincere intention.' The meaning of the whole idiom is 'earnestly and sincerely.'"
       }, 
       "examples": [
@@ -7618,7 +7618,7 @@
         "zhHK": "千軍萬馬", 
         "zhPY": "qiān jūn wàn mǎ "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "车 means 'soldiers, troops.' The literal meaning is 'a thousand troops and ten thousand horses,' with a freer translation being 'a vast array of infantry and cavalry, a powerful army.'"
       }, 
       "examples": [
@@ -7640,7 +7640,7 @@
         "zhHK": "絞盡腦汁", 
         "zhPY": "jiǎo jìn nǎo zhī "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "绞 means 'entangle,'尽 means 'completely,'脑 means 'brain,' and 汁 means 'juice.' The meaning of the whole idiom is 'rack one's brains.'"
       }, 
       "examples": [
@@ -7662,7 +7662,7 @@
         "zhHK": "垂頭喪氣", 
         "zhPY": "chuí tóu sàng qì "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "垂 means 'hang down,'丧 means 'lose,' and 气 means 'spirit.' A literal translation of the whole idiom is 'hang head lose spirit,' with freer translations including 'hang one's head in dejection, dejected, discouraged.'"
       }, 
       "examples": [
@@ -7684,7 +7684,7 @@
         "zhHK": "掩耳盜鈐", 
         "zhPY": "yǎn ěr dào líng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "掩 means 'cover,'耳 means 'ear,'盗 means 'steal,' and 铃 means 'bell.' A literal translation of this idiom is 'cover ears steal bell,' with a freer translation being 'cover one's own ears while one is stealing a bell so as to prevent others from hearing the sound of the bell.' This is a metaphor for 'deceive oneself and others.'"
       }, 
       "examples": [
@@ -7706,7 +7706,7 @@
         "zhHK": "日復一日", 
         "zhPY": "rì fù yí rì "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "日 means 'day' and 复 means 'again.' The literal meaning is 'a day and again one day,' with a freer translation being 'day after day, day in day out.'"
       }, 
       "examples": [
@@ -7728,7 +7728,7 @@
         "zhHK": "奄奄一息", 
         "zhPY": "yǎn yǎn yì xī "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "奄奄 means 'feeble breathing' and 息 means 'breath.' The meaning of the whole idiom is 'breathe feebly, one's last gasp before dying.'"
       }, 
       "examples": [
@@ -7750,7 +7750,7 @@
         "zhHK": "千載難逢", 
         "zhPY": "qiān zǎi nán féng "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "载 here means 'year' and 逢 means 'meet, encounter.' A literal translation of the entire idiom is 'in a thousand years hard to encounter.' This describes a rare opportunity. Freer translations include 'once in a thousand years, the chance of a lifetime.'"
       }, 
       "examples": [
@@ -7772,7 +7772,7 @@
         "zhHK": "未雨綢繆", 
         "zhPY": "wèi yǔ chóu móu "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "未 means 'not yet,' NJ here means 'rain,' and is said to once have meant 'silk umbrella.' The idea is 'prepare one's umbrella in advance even before it rains.' Nowadays, this idiom usually means 'worry about something that hasn't happened yet, take preventive measures.'"
       }, 
       "examples": [
@@ -7794,7 +7794,7 @@
         "zhHK": "居高臨下", 
         "zhPY": "jū gāo lín xià "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'reside in a high place and look downward,' with a freer translation being 'a commanding position or view.'"
       }, 
       "examples": [
@@ -7816,7 +7816,7 @@
         "zhHK": "心安理得", 
         "zhPY": "xīn ān lǐ dé "
       }, 
-      "translations": {
+      "definition": {
         "enGB": "安 means 'peaceful,'理 means 'reason,' and 得 means 'obtain.' A literal translation is 'mind is peaceful and reason has been obtained,' with a freer translation being 'have peace of mind, have a clear conscience.'"
       }, 
       "examples": [
@@ -7838,7 +7838,7 @@
         "zhHK": "一意孤行", 
         "zhPY": "yí yì gū xíng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "孤 means 'alone, isolated.' A literal translation is 'with full intention to walk in isolation.' Freer translations are 'cling obstinately to a reckless course' and 'hellbent on having one's own way.'"
       }, 
       "examples": [
@@ -7860,7 +7860,7 @@
         "zhHK": "三令五申", 
         "zhPY": "sān lìng wǔ shēn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "令 means 'order' and 申 means 'explain.' A literal translation of the whole idiom is 'three orders five explanations,' with freer translations being 'repeated orders and commands' or 'issue orders repeatedly.'"
       }, 
       "examples": [
@@ -7882,7 +7882,7 @@
         "zhHK": "依依不捨", 
         "zhPY": "yī yī bù shě"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "依依 means 'reluctant to part with' and 舍 means 'abandon, part.' The meaning of the whole idiom is 'feel a sense of regret when leaving, cannot bear to leave, reluctant to part from.'"
       }, 
       "examples": [
@@ -7904,7 +7904,7 @@
         "zhHK": "樂不思蜀", 
         "zhPY": "lè bù sī Shǐ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "乐 means 'happy,' 思 means 'think about, miss,' and 蜀 means 'the Kingdom of Shu Han (221-263 C.E.).' A literal translation of the whole idiom is 'so happy that one doesn't miss one's home country of Shu Han,' with freer translations being 'indulge in pleasure and forget home and duty, too merry to be homesick.'"
       }, 
       "examples": [
@@ -7926,7 +7926,7 @@
         "zhHK": "嘆為觀止", 
         "zhPY": "tàn wéi guān zhǐ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "叹 means 'sigh with emotion,' 观 means 'look,' and 止 means 'stop.' A literal translation of the whole idiom is 'sigh with emotion because once you have seen a certain place you don't need to see anything else.' Freer translations include 'in awe, sigh in wonder, acclaim something as perfect.'"
       }, 
       "examples": [
@@ -7948,7 +7948,7 @@
         "zhHK": "大有人在", 
         "zhPY": "dà yǒu rén zài"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "大 here means 'many.' The meaning of the whole idiom is 'there are many people like this.'"
       }, 
       "examples": [
@@ -7970,7 +7970,7 @@
         "zhHK": "雪中送炭", 
         "zhPY": "xuě zhōng sòng tàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "炭 means 'charcoal.' A literal translation of the whole idiom is 'in the midst of snowy weather send charcoal.' This is a metaphor for 'provide timely and critical assistance' or 'offer opportune help.'"
       }, 
       "examples": [
@@ -7992,7 +7992,7 @@
         "zhHK": "一籌莫展", 
         "zhPY": "yì chóu mò zhǎn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "筹 means 'plan,' 莫 means 'not,' and 展 here means 'implement.' A literal translation is 'even one plan not implement,' with freer translations being 'can't think of any way to solve a problem, at one's wit's end.'"
       }, 
       "examples": [
@@ -8014,7 +8014,7 @@
         "zhHK": "水泄不通", 
         "zhPY": "shuǐ xiè bù tōng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "泄 means 'let out (water)' and 通 means 'come through.' The meaning is 'not even a drop of water could come through' - so crowded is a place, so heavy is traffic, or so tightly surrounded is some person or place."
       }, 
       "examples": [
@@ -8036,7 +8036,7 @@
         "zhHK": "相依為命", 
         "zhPY": "xiāng yī wéi mìng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "相 means 'one another,' 依 means 'depend on,' 为 means 'be,' and 命 means 'life.' A literal translation is 'several people depend on one another for their lives,' with a freer translation being 'depend on each other for survival, bound by a common destiny.'"
       }, 
       "examples": [
@@ -8058,7 +8058,7 @@
         "zhHK": "街頭巷尾", 
         "zhPY": "jiē tóu xiàng wěi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "街头 means 'street corner' and 巷尾 means 'the end of a lane.' The meaning of the whole idiom is 'streets and lanes.'"
       }, 
       "examples": [
@@ -8080,7 +8080,7 @@
         "zhHK": "無微不至", 
         "zhPY": "wú wēi bú zhì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "微 means 'small' and 至 means 'arrive.' A literal translation is 'there is no small (area where attention or care) did not arrive.' This idiom can be translated as 'meticulous, leaving nothing undone.'"
       }, 
       "examples": [
@@ -8102,7 +8102,7 @@
         "zhHK": "不假思索", 
         "zhPY": "bù jiǎ sī suǒ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "假 means 'make use of' and 思索 means 'think, ponder.' The whole idiom means 'without stopping to think, without hesitation.'"
       }, 
       "examples": [
@@ -8124,7 +8124,7 @@
         "zhHK": "江郎才盡", 
         "zhPY": "Jiāng láng cái jìn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "江 is a Chinese surname,郎 means 'man,' 才 means 'talent,' and 尽 means 'exhausted, used up.' A literal translation is 'the talents of the man by the name of Jiang were exhausted,' with a freer translation being 'one's talents have been used up' or 'one's creative energies have become exhausted.'"
       }, 
       "examples": [
@@ -8146,7 +8146,7 @@
         "zhHK": "不相上下", 
         "zhPY": "bù xiāng shàng xià"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "相 means 'mutually' and 上下 means 'high and low, superior and inferior.' The whole idiom means 'equally matched, without much difference, about the same.'"
       }, 
       "examples": [
@@ -8168,7 +8168,7 @@
         "zhHK": "居安思危", 
         "zhPY": "jū ān sī wēi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "居 means 'live in,' 安 means 'peace,' 思 means 'think about,' and 危 means 'danger.' A literal translation of the whole idiom is 'live in peace (but) think about danger.' A freer translation of the whole idiom is 'vigilant even in peacetime.'"
       }, 
       "examples": [
@@ -8190,7 +8190,7 @@
         "zhHK": "近在咫尺", 
         "zhPY": "jìn zài zhǐ chǐ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A 咫 was a unit of measurement in ancient China consisting of eight 寸 or 'Chinese inches.' A 尺 or 'Chinese foot' was another ancient measurement. Together, 咫尺 means 'short distance.' The meaning of the whole idiom is 'extremely close, close at hand.'"
       }, 
       "examples": [
@@ -8212,7 +8212,7 @@
         "zhHK": "捲土重來", 
         "zhPY": "juǎn tǔ chóng lái"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "卷土 means 'sweep up dust.' This describes people and horses who are running. 重来 means 'come again.' The meaning of the whole idiom is 'stage a comeback.'"
       }, 
       "examples": [
@@ -8234,7 +8234,7 @@
         "zhHK": "冰天雪地", 
         "zhPY": "bīng tiān xuě dì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "冰天 means 'icy sky' and 雪地 means 'snow-covered ground.' The whole idiom means 'all covered with ice and snow, bitterly cold.'"
       }, 
       "examples": [
@@ -8256,7 +8256,7 @@
         "zhHK": "有的放矢", 
         "zhPY": "yǒu dì fàng shǐ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "的 here means 'target, goal,' 放 means 'release,' and 矢 means 'arrow.' A literal translation of the whole idiom is 'have a target and release arrows,' with freer translations being 'have an object in mind, goal-oriented.'"
       }, 
       "examples": [
@@ -8278,7 +8278,7 @@
         "zhHK": "一塵不染", 
         "zhPY": "yì chén bù rǎn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "尘 means 'dust' and 染 means 'dye, contaminate.' A literal translation of this idiom is 'not contaminated by even a single particle of dust,' with a freer translation being 'spotless, clean, pure' (of the environment or of a person). This idiom derives from Buddhism, in which sight, sound, smell, taste, touch, and thought were called the 'six dusts,' by which a Buddhist was not supposed to be contaminated."
       }, 
       "examples": [
@@ -8300,7 +8300,7 @@
         "zhHK": "事半功倍", 
         "zhPY": "shì bàn gōng bèi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "功 here means 'efficacy, effect' and 倍 means 'double.' A literal translation of the whole idiom is 'work half effect double,' with a freer translation being 'twice the results with half the effort.'"
       }, 
       "examples": [
@@ -8322,7 +8322,7 @@
         "zhHK": "不同凡響", 
         "zhPY": "bù tóng fán xiǎng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "不同 means 'different from,' 凡 means 'ordinary,' and 凡响 means 'common music.' The whole idiom means 'out of the ordinary, head and shoulders above the rest, outstanding.'"
       }, 
       "examples": [
@@ -8344,7 +8344,7 @@
         "zhHK": "井底之蛙", 
         "zhPY": "jǐng dǐ zhī wā"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "井 means 'well' and 蛙 means 'frog.' A literal translation of the whole idiom is 'a frog at the bottom of a well.' This is a metaphor for 'a narrow-minded or shortsighted or inexperienced person.'"
       }, 
       "examples": [
@@ -8366,7 +8366,7 @@
         "zhHK": "大同小異", 
         "zhPY": "dà tóng xiǎo yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "同 means 'same' and 异 means 'different.' The meaning of the whole idiom is 'mostly the same with only minor differences.'"
       }, 
       "examples": [
@@ -8388,7 +8388,7 @@
         "zhHK": "談笑風生", 
         "zhPY": "tán xiào fēng shēng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "风生 means 'interest, enthusiasm.' The literal meaning of the whole idiom is 'talk and laugh with interest and enthusiasm.' A freer translation is 'chat merrily, engage in witty conversation.'"
       }, 
       "examples": [
@@ -8410,7 +8410,7 @@
         "zhHK": "不亦樂乎", 
         "zhPY": "bú yì lè hū"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "亦 means 'also,' 乐 means 'happy,' and 乎 is the Classical Chinese equivalent of the Modern Chinese question particle 吗.The literal meaning of the whole idiom is 'Is it not also a happy thing?' A freer translation is 'what a pleasure' or 'what a delight.' However, in modern usage, this idiom is most commonly used to express a high degree and may be translated as 'very, extremely.'"
       }, 
       "examples": [
@@ -8432,7 +8432,7 @@
         "zhHK": "承前啟後", 
         "zhPY": "chéng qián qǐ hòu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "承 means 'continue, carry on' and 启 means 'open up, begin.' A literal translation of the whole idiom is 'continue what has come before and open up what is to come after,' with freer translations being 'succeed the past and develop the future' or 'carry on the great traditions of something.'"
       }, 
       "examples": [
@@ -8454,7 +8454,7 @@
         "zhHK": "同甘共苦", 
         "zhPY": "tóng gān gòng kǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "同 means 'together,' 甘 means 'sweet,' 共 means 'collectively,' and 苦 means 'bitter.' A literal translation of the whole idiom is 'together sweet collectively bitter,' with freer translations being 'share joys and sorrows' or 'share comforts and hardships.'"
       }, 
       "examples": [
@@ -8476,7 +8476,7 @@
         "zhHK": "明目張膽", 
         "zhPY": "míng mù zhāng dǎn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "明目 means 'open the eyes' and 张胆 means 'gather up one's courage.' The meaning of the whole idiom is 'open, flagrant, brazen.' This refers to doing bad things openly and brazenly."
       }, 
       "examples": [
@@ -8498,7 +8498,7 @@
         "zhHK": "耳聞目睹", 
         "zhPY": "ěr wén mù dǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "耳 means 'ears,' 闻 means 'hear,' 目 means 'eyes,' and 睹 means 'see.' A literal translation of the whole idiom is 'ears hear and eyes see.' This refers to hearing something with one's own ears and seeing something with one's own eyes. A freer translation would be 'what one hears and sees, observe in person.'"
       }, 
       "examples": [
@@ -8520,7 +8520,7 @@
         "zhHK": "啼笑皆非", 
         "zhPY": "tí xiào jiē fēi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "啼 means 'cry,' 皆 means 'both,' and 非 means 'is not.' The literal meaning is 'cry laugh both is not.' A freer translation of this idiom is 'not know whether it is better to laugh or cry, in an awkward situation.'"
       }, 
       "examples": [
@@ -8542,7 +8542,7 @@
         "zhHK": "死灰復燃", 
         "zhPY": "sǐ huī fù rán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "死灰 means 'dead ashes,' 复 means 'again,' and 燃 means 'burn.' A literal translation of the whole idiom is 'dead ashes burn again,' with freer translations being 'come back to life' and 'resurgence.'"
       }, 
       "examples": [
@@ -8564,7 +8564,7 @@
         "zhHK": "塞翁失馬", 
         "zhPY": "sài wēng shī mǎ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "塞 means 'frontier,' 翁 means 'old man,' and 失 means 'lose.' A literal translation of the whole idiom is 'an old man living at the frontier of his country lost his horse,' with freer translations being 'a loss may turn out to be a gain, a blessing in disguise.'"
       }, 
       "examples": [
@@ -8586,7 +8586,7 @@
         "zhHK": "口口聲聲", 
         "zhPY": "kǒu kǒu shēng shēng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "口 means 'mouth' and 声 means 'voice.' The meaning of the whole idiom is 'say over and over again.'"
       }, 
       "examples": [
@@ -8608,7 +8608,7 @@
         "zhHK": "水落石出", 
         "zhPY": "shuǐ luò shí chū"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "落 means 'fall, recede.' The literal meaning is 'when the water recedes, the rocks (that are hidden under the water) will appear.' The extended meaning is 'come to light, get to the bottom of, the truth is revealed.'"
       }, 
       "examples": [
@@ -8630,7 +8630,7 @@
         "zhHK": "我行我素", 
         "zhPY": "wǒ xíng wǒ sù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "行 means 'walk' and 素 means 'always.' The idea is that however you always did things in the past, you will still do things that way now without changing them. A freer translation is 'stick to one's own way of doing things.'"
       }, 
       "examples": [
@@ -8652,7 +8652,7 @@
         "zhHK": "望而卻步", 
         "zhPY": "wàng ér què bù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "望 means 'see,' 却 means 'stop,' and 步 means 'step.' A literal translation of the whole idiom is 'see something and stop one's steps,' with freer translations being 'shrink back at the sight of, flinch, frightened.'"
       }, 
       "examples": [
@@ -8674,7 +8674,7 @@
         "zhHK": "有血有肉", 
         "zhPY": "yǒu xuè yǒu ròu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "血 means 'blood' and 肉 means 'flesh.' A literal translation of the whole idiom is 'have blood have flesh,' with a freer translation being 'vivid, lifelike.'"
       }, 
       "examples": [
@@ -8696,7 +8696,7 @@
         "zhHK": "夭涯海角", 
         "zhPY": "tiān yá hǎi jiǎo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "涯 means 'edge' and 角 means 'corner.' The literal meaning of this idiom is 'heaven's edges and sea's corners,' with a freer translation being 'the ends of the earth, a very distant place, far away.'"
       }, 
       "examples": [
@@ -8718,7 +8718,7 @@
         "zhHK": "輕描淡寫", 
         "zhPY": "qīng miáo dàn xiě"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "轻 means 'lightly,' 描 means 'trace,' 淡 means 'light (as in color),' and 写 here means 'paint.' The literal meaning of this idiom is 'paint in light colors.' The extended meaning is 'treat a matter lightly and superficially, mention casually.'"
       }, 
       "examples": [
@@ -8740,7 +8740,7 @@
         "zhHK": "哭笑不得", 
         "zhPY": "kū xiào bù dé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "得 means 'appropriate.' The meaning of the whole idiom is 'not know whether to cry or laugh.'"
       }, 
       "examples": [
@@ -8762,7 +8762,7 @@
         "zhHK": "自吿奮勇", 
         "zhPY": "zì gào fèn yǒng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "告 means 'tell, indicate' and 奋勇 means 'marshal all one's energy and courage.' A literal translation is 'oneself to indicate one's energy and courage.' Freer translations include 'offer to undertake a difficult or dangerous task, volunteer.'"
       }, 
       "examples": [
@@ -8784,7 +8784,7 @@
         "zhHK": "指鹿為馬", 
         "zhPY": "zhǐ lù wéi mǎ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "指 means 'point at' and 鹿 means 'deer.' A literal translation of the whole idiom is 'point at a deer and say it's a horse.' This is a metaphor for 'purposely confuse right and wrong,' 'misrepresent something,' or 'distort the facts.'"
       }, 
       "examples": [
@@ -8806,7 +8806,7 @@
         "zhHK": "設身處地", 
         "zhPY": "shè shēn chǔ dì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "设 here means 'assume, imagine,' 身 means 'oneself,' 处 means 'in (a certain situation),' and 地 means 'position, circumstances.' The literal meaning is 'assume that oneself is in someone else's position,' with a freer translation being 'put oneself in someone else's shoes, think from someone else's standpoint, take someone else's interests into consideration.'"
       }, 
       "examples": [
@@ -8828,7 +8828,7 @@
         "zhHK": "天方夜譚", 
         "zhPY": "Tiānfāng yè tán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "天方 means 'Arabian' and 夜谭 means 'night talk.' The literal meaning of this idiom is 'Arabian Night Talks,' the Chinese title of the book known in English as Arabian Nights or One Thousand and One Nights. This expression has, by metaphor, gained the extended meaning of 'strange and incredible story or comment.'"
       }, 
       "examples": [
@@ -8850,7 +8850,7 @@
         "zhHK": "雅俗共賞", 
         "zhPY": "yǎ sú gòng shǎng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "雅 here means 'cultured or refined people,' 俗 means 'ordinary people,' and 赏 means 'appreciate, enjoy.' A literal translation of this idiom is 'cultured people and ordinary people can all enjoy it,' with a freer translation being 'appeal to both cultured and popular tastes.'"
       }, 
       "examples": [
@@ -8872,7 +8872,7 @@
         "zhHK": "無所適從", 
         "zhPY": "wú suǒ shì cóng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "适 here means 'go' and 从 means 'follow.' A literal translation of the whole idiom is 'have nowhere to go and nothing to follow,' with freer translations being 'at a loss how to proceed, not know what to do.'"
       }, 
       "examples": [
@@ -8894,7 +8894,7 @@
         "zhHK": "不容置疑", 
         "zhPY": "bù róng zhì yí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "容 means 'allow' and 置疑 means 'raise doubts.' The whole idiom means 'allow no doubts, undeniable.'"
       }, 
       "examples": [
@@ -8916,7 +8916,7 @@
         "zhHK": "流連忘返", 
         "zhPY": "liú lián wàng fǎn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "流连 means 'cannot bear to leave, linger,' 忘 means 'forget,' and 返 means 'return.' A literal translation of the whole idiom is 'unwilling to leave and forget to return.' Freer translations of the idiom include 'enjoy oneself so much as to forget to return home, hate to leave.'"
       }, 
       "examples": [
@@ -8938,7 +8938,7 @@
         "zhHK": "翻來覆去", 
         "zhPY": "fān lái fù qù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "翻 means 'turn over' and 覆 means 'turn back around.' The whole idiom can have two different meanings: 'turn over back and forth, toss and turn', (as when sleeping) or 'repeat something again and again.'"
       }, 
       "examples": [
@@ -8960,7 +8960,7 @@
         "zhHK": "無中生有", 
         "zhPY": "wú zhōng shēng yŏu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of this idiom is 'in the midst of nothing there is engendered something.' It is frequently translated as 'fabricated, groundless.'"
       }, 
       "examples": [
@@ -8982,7 +8982,7 @@
         "zhHK": "龐然大物", 
         "zhPY": "páng rán dà wù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "庞然 means 'gigantic' and 大物 means 'big thing.' The meaning of the whole idiom is 'a monster, a giant, a colossus.'"
       }, 
       "examples": [
@@ -9004,7 +9004,7 @@
         "zhHK": "黔驢技窮", 
         "zhPY": "Qián lǘ jì qióng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "黔 is an ancient name for Guizhou Province, 驴 means 'donkey,' 技 means 'skill,' and 穷 means 'exhaust.' A literal translation is 'the Guizhou donkey's skills have been exhausted,' with a freer translation being 'exhaust one's, limited) bag of tricks' or 'have used up all the, limited) skills that one possesses.'"
       }, 
       "examples": [
@@ -9026,7 +9026,7 @@
         "zhHK": "三三兩兩", 
         "zhPY": "sān sān liăng liăng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'three three two two,' with a freer translation being 'in twos and threes, not many people.'"
       }, 
       "examples": [
@@ -9048,7 +9048,7 @@
         "zhHK": "發號施令", 
         "zhPY": "fāhào shī lìng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "Both 号 and 令 mean 'a command, an order' while 施 means 'carry out, execute.' The meaning of the whole idiom is 'give orders, boss people around.'"
       }, 
       "examples": [
@@ -9070,7 +9070,7 @@
         "zhHK": "心曠神怡", 
         "zhPY": "xīn kuàng shén yí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "旷 means 'open,'神 means 'spirits,' and 怡 means 'happy.' A literal translation of this idiom is 'heart open spirits happy,' with a freer translation being 'relaxed and joyful, cheerful and happy.'"
       }, 
       "examples": [
@@ -9092,7 +9092,7 @@
         "zhHK": "雷厲風行", 
         "zhPY": "léilìfēngxíng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "雷 means 'thunder,'厉 means 'violence,' and 行 here means 'swift.' A literal translation of the whole idiom is 'as violent as thunder and as swift as wind,' with a freer translation being 'vigorous and resolute, in a sweeping manner.'"
       }, 
       "examples": [
@@ -9114,7 +9114,7 @@
         "zhHK": "朝夕相處", 
         "zhPY": "zhāo xī xiāng chŭ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "朝 means 'morning,' 夕 means 'evening,' and 相处 means 'live together.' The meaning of the whole idiom is 'constantly together.'"
       }, 
       "examples": [
@@ -9136,7 +9136,7 @@
         "zhHK": "躊躇滿志", 
         "zhPY": "chóu chú mǎn zhì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "畴躇 means 'pleased with oneself,' 满 means 'content,' and 志 means 'ideals.' The meaning of the whole idiom is 'self-satisfied, puffed up with pride.'"
       }, 
       "examples": [
@@ -9158,7 +9158,7 @@
         "zhHK": "金碧輝煌", 
         "zhPY": "jīn bì huī huáng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "金碧 means 'gold and green pigments' and 辉煌 means 'glorious, magnificent.' The meaning of the whole idiom is 'resplendent in bright colors.'"
       }, 
       "examples": [
@@ -9180,7 +9180,7 @@
         "zhHK": "同舟共濟", 
         "zhPY": "tóng zhōu gòng jì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "同 means 'same,' 舟 means 'boat,' 济 means 'cross a river,' and 共 means 'together.' A literal translation of the whole idiom is 'cross the river together in the same boat.' Freer translations include 'overcome difficulties together, pull together to resolve problems, stand together in time of need.'"
       }, 
       "examples": [
@@ -9202,7 +9202,7 @@
         "zhHK": "志同道合", 
         "zhPY": "zhì tóng dào hé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "志 means 'aspiration' and 道 means 'road.' A literal translation of this idiom is 'aspiration the same and road conforming,' with a freer translation being 'have the same aspirations, have common goals.'"
       }, 
       "examples": [
@@ -9224,7 +9224,7 @@
         "zhHK": "唇亡齒寒", 
         "zhPY": "chún wáng chǐ hán"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "唇 means 'lip,' 亡 means 'lose,' 齿 means 'tooth,' and 寒 means 'cold.' A literal translation of this idiom is 'when the lips are gone the teeth are cold.' The extended meaning is 'closely related and share common concerns.'"
       }, 
       "examples": [
@@ -9246,7 +9246,7 @@
         "zhHK": "柳暗花明", 
         "zhPY": "liǔ àn huā míng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning of this idiom is 'willows shady flowers bright.' It describes a beautiful scene where willow trees create shade and where flowers are blooming, dazzling the eyes with their bright colors. Later this idiom was also used as a metaphor for hope in the midst of difficulty, or for a bright future after a period of difficulty. This idiom can sometimes be translated as 'joy after sorrow' or 'good fortune after hardship.'"
       }, 
       "examples": [
@@ -9268,7 +9268,7 @@
         "zhHK": "袖手旁觀", 
         "zhPY": "xiù shǒu páng guān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "袖 means 'put in one's sleeves,' 旁 means 'from the sides,' and观 means 'look on.' A literal translation of this idiom is 'put one's hands in one's sleeves and look on from the sidelines.' A freer translation is 'stand by with one's arms folded, stand idly by.'"
       }, 
       "examples": [
@@ -9290,7 +9290,7 @@
         "zhHK": "豁然開朗", 
         "zhPY": "huò rán kāi lǎng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "豁然 means 'open' and 开朗 means 'open and bright.' The literal meaning is 'open and bright,' with a freer translation being 'suddenly see the light.'"
       }, 
       "examples": [
@@ -9312,7 +9312,7 @@
         "zhHK": "詩情畫意", 
         "zhPY": "shī qíng huà yì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "诗 means 'poem,' 情 means 'feeling,' and m means 'meaning, idea.' The literal meaning is 'poem-feeling painting-idea,' with a freer translation being 'rich in poetic and artistic flavor.'"
       }, 
       "examples": [
@@ -9334,7 +9334,7 @@
         "zhHK": "同日而語", 
         "zhPY": "tóng rì ér yǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "同 means 'same,' 日 means 'day,' and 语 means 'speak.' The literal meaning of this idiom is 'speak about on the same day,' with a freer translation being 'talk about at the same time, mention in the same breath, compare with.'"
       }, 
       "examples": [
@@ -9356,7 +9356,7 @@
         "zhHK": "曾幾何時", 
         "zhPY": "céng jǐ hé shí"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "曾 is Classical Chinese for the modern 曾经 and means 'before, once,' 几何 means 'how much,' and 时 means 'time.' A literal translation of the whole idiom is 'not very much time, has passed).' A freer translation is 'it was not so long ago that…, it was not long before….' However, this idiom is not infrequently misused to mean 'at some point in the past' or 'long ago,' which is gradually becoming accepted usage."
       }, 
       "examples": [
@@ -9378,7 +9378,7 @@
         "zhHK": "高高在上", 
         "zhPY": "gāo gāo zài shàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "This idiom means 'up very high, isolated from the masses.'"
       }, 
       "examples": [
@@ -9400,7 +9400,7 @@
         "zhHK": "一往情深", 
         "zhPY": "yì wǎng qíng shēn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The meaning of this idiom is 'fall passionately in love with, head over heels in love with.'"
       }, 
       "examples": [
@@ -9422,7 +9422,7 @@
         "zhHK": "痛心疾首", 
         "zhPY": "tòng xīn jí shǒu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "痛 means 'hurt,' 疾 means 'pain,' and 首 means 'head.' A literal translation of the idiom is 'hurt the heart and pain the head,' with a freer translation being 'very distressing or distressed, full of resentment.'"
       }, 
       "examples": [
@@ -9444,7 +9444,7 @@
         "zhHK": "鹬蚌相爭, 漁翁得利", 
         "zhPY": "yù bàng xiāng zhēng, yú wēng dé lì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "鹬 means 'snipe, a type of water bird),' 蚌 means 'clam,' 相 means 'mutually,' 争 means 'fight,' 渔翁 means 'fisherman,' and 利 means 'benefit.' A literal translation of the whole idiom is 'when the snipe and the clam fought with each other, the fisherman obtained the benefit', (since he could grab them both while they were distracted). This is a metaphor for a third party's benefiting when two parties are engaged in a quarrel and neither is willing to yield."
       }, 
       "examples": [
@@ -9466,7 +9466,7 @@
         "zhHK": "無時無刻", 
         "zhPY": "wú shí wú kè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of this idiom is 'there isn't an hour and there isn't a quarter hour.' The meaning is 'constantly, incessantly, all the time.'"
       }, 
       "examples": [
@@ -9488,7 +9488,7 @@
         "zhHK": "歡天喜地", 
         "zhPY": "huān tiān xǐ dì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of this idiom is 'happy heaven happy earth.' The meaning is 'completely overjoyed.'"
       }, 
       "examples": [
@@ -9510,7 +9510,7 @@
         "zhHK": "殫精竭慮", 
         "zhPY": "dān jīng jié lǜ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "殚 means 'use up,' 精 means 'energy,' 竭 also means 'use up,' and 虑 means 'thought.' The literal meaning of the whole idiom is 'use up all one's energy and thought,' with a freer translation being 'rack one's brains.'"
       }, 
       "examples": [
@@ -9532,7 +9532,7 @@
         "zhHK": "通情達理", 
         "zhPY": "tōng qíng dá lǐ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "通 means 'understand,' 情 means 'situation,' 达 means 'attain,' and 理 means 'reason.' The meaning of the whole idiom is 'very reasonable or sensible.'"
       }, 
       "examples": [
@@ -9554,7 +9554,7 @@
         "zhHK": "從天而降", 
         "zhPY": "cóng tiān ér jiàng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "降 means 'fall.' The literal meaning of the whole idiom is 'fall from the sky.' A freer English equivalent is 'come out of a clear blue sky.'"
       }, 
       "examples": [
@@ -9576,7 +9576,7 @@
         "zhHK": "井井有條", 
         "zhPY": "jǐng jǐng yǒu tiáo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "井井 means 'orderly, well arranged.' 有条 means 有条理' which also means 'orderly, well arranged.' The meaning of the whole idiom is 'orderly, in good order, methodical.'"
       }, 
       "examples": [
@@ -9598,7 +9598,7 @@
         "zhHK": "苦口婆心", 
         "zhPY": "kǔ kǒu pó xīn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "苦口 means 'urge with great patience,' 婆 means 'old woman,' and 婆 means 'kindheartedness.' The meaning of the whole idiom is 'admonish over and over with good intentions.'"
       }, 
       "examples": [
@@ -9620,7 +9620,7 @@
         "zhHK": "人山人海", 
         "zhPY": "rén shān rén hǎi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal translation of this idiom is 'people-mountain and people-sea.' The meaning is 'many people, huge crowds.'"
       }, 
       "examples": [
@@ -9642,7 +9642,7 @@
         "zhHK": "運籌帷幄", 
         "zhPY": "yùn chóu wéi wò"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "运筹 means 'map out tactics, plan' and 帷幄 means 'army tent.' A literal translation is 'map out strategic plans in an army tent.' Nowadays, this idiom is usually employed with the extended meaning 'good at strategies and planning.'"
       }, 
       "examples": [
@@ -9664,7 +9664,7 @@
         "zhHK": "才高八斗", 
         "zhPY": "cái gāo bā dǒu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "才 means 'talent', (especially literary talent) and 斗 was a unit of measurement in ancient China, with ten "
       }, 
       "examples": [
@@ -9686,7 +9686,7 @@
         "zhHK": "沾沾自喜", 
         "zhPY": "zhān zhān zì xǐ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "沾沾 means 'frivolous, flighty,' 自 means 'oneself,' and 喜 means 'like, happy with.' A literal translation of this idiom is 'frivolous and happy with oneself,' with freer translations including 'pleased with oneself, self-satisfied, complacent.'"
       }, 
       "examples": [
@@ -9708,7 +9708,7 @@
         "zhHK": "皆大歡喜", 
         "zhPY": "jiē dà huān xǐ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "皆 means 'all,' 大 means 'greatly,' and 欢喜 means 'joyful, happy, delighted.' The meaning of the whole idiom is 'everyone is happy, to the satisfaction of all.'"
       }, 
       "examples": [
@@ -9730,7 +9730,7 @@
         "zhHK": "大千世界", 
         "zhPY": "dà qiān shì jiè"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "大千 means 'the infinite universe.' The meaning of the whole idiom is 'the vast world, the infinite universe.'"
       }, 
       "examples": [
@@ -9752,7 +9752,7 @@
         "zhHK": "舉一反三", 
         "zhPY": "jǔyīfǎn sān"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "举 means 'mention, give an example' and 反 means 'infer.' A literal translation of the whole idiom is 'when one, corner of a room) is mentioned, you infer the other three, corners of the room),' with a freer translation being 'infer other things from one fact that is already known, extrapolate.'"
       }, 
       "examples": [
@@ -9774,7 +9774,7 @@
         "zhHK": "不了了之", 
         "zhPY": "bù liǎo liǎo zhī"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "S means 'end, finish.' The whole idiom means 'settle a matter by leaving it unsettled, let an issue disappear.'"
       }, 
       "examples": [
@@ -9796,7 +9796,7 @@
         "zhHK": "得不償失", 
         "zhPY": "dé bù cháng shī"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "得 means 'get, gain,' and 偿 means 'compensate.' The meaning of the whole idiom is 'the gain does not make up for the loss.'"
       }, 
       "examples": [
@@ -9818,7 +9818,7 @@
         "zhHK": "偷工減料", 
         "zhPY": "tōu gōng jiǎn liào"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "偷 means 'steal,' 工 means 'work,' 减 means 'reduce,' and 料 means 'materials.' The meaning of the whole idiom is 'do shoddy work by skimping on materials.' This recently has gained the extended meaning of 'not be responsible in one's work, careless, deceive others.'"
       }, 
       "examples": [
@@ -9840,7 +9840,7 @@
         "zhHK": "高屋建瓴", 
         "zhPY": "gāo wū jiàn líng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "屋 means 'roof,' 建 here means 'to pour water,' and 瓴 here means 'water vase.' A literal translation would be 'on a high rooftop pour water down.' A freer translation is 'operate from a strategically advantageous position.'"
       }, 
       "examples": [
@@ -9862,7 +9862,7 @@
         "zhHK": "戀戀不捨", 
         "zhPY": "liàn liàn bù shě"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "恋恋 means 'lovingly, with great affection' and 舍 means 'abandon, leave.' A literal translation of the whole idiom is 'lovingly not willing to leave,' with freer translations being 'very reluctant to leave, hate to part from.'"
       }, 
       "examples": [
@@ -9884,7 +9884,7 @@
         "zhHK": "圍魏救趙", 
         "zhPY": "wéi Wèi jiù Zhào"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "围 means 'encircle, surround,' 魏 was the name of a state in ancient China, 救 means 'rescue,' and 赵 was the name of another state in ancient China. A literal translation of this idiom is 'encircle the state of Wei and rescue the state of Zhao.' This is a metaphor for 'attack an enemy's rear in order to force it to give up its own attack.'"
       }, 
       "examples": [
@@ -9906,7 +9906,7 @@
         "zhHK": "花團錦簇", 
         "zhPY": "huā tuán jǐn cù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "This idiom means 'masses of flowers and piles of brocade.' This can also refer to well-dressed people or beautiful decorations."
       }, 
       "examples": [
@@ -9928,7 +9928,7 @@
         "zhHK": "悲歡離合", 
         "zhPY": "bēi huān lí hé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The four characters literally mean 'sad, happy, separate, reunite.' The whole idiom means 'sorrows, joys, partings, and reunions' or 'the vicissitudes of human life.' Though 欢 and 合 have a positive sense, the overall meaning of this idiom emphasizes 悲 and 离' with their negative sense."
       }, 
       "examples": [
@@ -9950,7 +9950,7 @@
         "zhHK": "今非昔比", 
         "zhPY": "jīn fēi xī bǐ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "昔 means 'former times.' The meaning of the whole idiom is 'the present does not compare with the past, times have changed.'"
       }, 
       "examples": [
@@ -9972,7 +9972,7 @@
         "zhHK": "一事無成", 
         "zhPY": "yí shì wú chéng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "成 here means 'accomplishment.' The meaning of the whole idiom is 'accomplish or achieve nothing, get nowhere.'"
       }, 
       "examples": [
@@ -9994,7 +9994,7 @@
         "zhHK": "不倫不類", 
         "zhPY": "bù lún bú lèi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "Both 伦 and 类 mean 'class, category.' The meaning of the whole idiom is 'not one thing not another, neither fish nor fowl, nondescript.'"
       }, 
       "examples": [
@@ -10016,7 +10016,7 @@
         "zhHK": "家常便飯", 
         "zhPY": "jiā cháng biàn fàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "家常 means 'home-style' and 便饭 means 'simple meal,' so the literal meaning of this idiom is 'simple home-style food.' This idiom is often used with the literal meaning, but it is just as often employed as a metaphor for anything that is very common or ordinary."
       }, 
       "examples": [
@@ -10038,7 +10038,7 @@
         "zhHK": "平心而論", 
         "zhPY": "píng xīn ér lùn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "平心 means 'with an impartial heart' and 论 means 'discuss.' The meaning of the whole idiom is 'objectively speaking, in all fairness, to be honest.'"
       }, 
       "examples": [
@@ -10060,7 +10060,7 @@
         "zhHK": "變本加厲", 
         "zhPY": "biàn běn jiā lì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "变 means 'change,'本 means 'basic nature,' 加 means 'add,' and 厉 means 'severity.' The whole idiom means 'intensify, become worse.'"
       }, 
       "examples": [
@@ -10082,7 +10082,7 @@
         "zhHK": "名正言順", 
         "zhPY": "míng zhèng yán shùn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'with right titles and proper words - fitting and proper, perfectly justifiable.'"
       }, 
       "examples": [
@@ -10104,7 +10104,7 @@
         "zhHK": "望梅止渴", 
         "zhPY": "wàng méi zhĭ kě"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "望 means 'gaze or look at,' 梅 means 'plum,'止 means 'stop,' and 渴 means 'thirsty.' A literal translation of this idiom is 'gaze at plums to quench one's thirst.' This is a metaphor for merely consoling oneself with fantasies and being unable to realize one's goals. One possible English translation is 'feed on illusions.'"
       }, 
       "examples": [
@@ -10126,7 +10126,7 @@
         "zhHK": "意氣風發", 
         "zhPY": "yì qì fēng fā"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "意气 means 'enthusiasm' and 风发 means 'energetic.' The meaning of the whole idiom is 'enthusiastic and energetic, with boundless enthusiasm.'"
       }, 
       "examples": [
@@ -10148,7 +10148,7 @@
         "zhHK": "雙管齊下", 
         "zhPY": "shuāng guǎn qí xià"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "双 means 'two, a pair' and 管 means 'pen, brush.' A literal translation is 'paint with two brushes at the same time.' Later this was used as a metaphor for 'doing two things simultaneously' or 'simultaneously using two ways to achieve one goal.'"
       }, 
       "examples": [
@@ -10170,7 +10170,7 @@
         "zhHK": "含辛茹苦", 
         "zhPY": "Hán xīn rú kǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "含 means 'hold in the mouth,' 辛 means 'hot spicy,' 茹 means 'eat,' and 苦 means 'bitter,' so that the literal meaning of this idiom is 'mouth something spicy and eat something bitter.' A freer translation is 'suffer great hardships and difficulties.'"
       }, 
       "examples": [
@@ -10192,7 +10192,7 @@
         "zhHK": "立竿見影", 
         "zhPY": "lì gán jiàn yĭng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "立 means 'raise up,'竿 means 'pole,' and 影 means 'shadow.' The literal meaning of this idiom is 'put up a pole and see its shadow.' A freer translation is 'get quick results.'"
       }, 
       "examples": [
@@ -10214,7 +10214,7 @@
         "zhHK": "衝鋒陷陣", 
         "zhPY": "chōng fēng xiàn zhèn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "冲锋 means 'charge forward and attack,'陷 means 'break through or breach,' and 阵 means 'battle formation.' The meaning of the whole idiom is 'charge forward and submerge the enemy lines' or 'dash to the front of battle.'"
       }, 
       "examples": [
@@ -10236,7 +10236,7 @@
         "zhHK": "水到渠成", 
         "zhPY": "shuĭ dào qú chéng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "渠 means 'a channel (for water) ' and 成 means 'is formed.' The literal meaning is 'water arrives and channel is formed,' with a freer translation being 'when conditions are ripe success is achieved; achieved naturally and without effort.'"
       }, 
       "examples": [
@@ -10258,7 +10258,7 @@
         "zhHK": "危言聳聽", 
         "zhPY": "wēi yán sǒng tīng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "危言 means 'words said to frighten people' and 耸听 means 'frightening things one hears.' The meaning of the whole idiom is 'purposely say startling things in order to frighten people and create a sensation.'"
       }, 
       "examples": [
@@ -10280,7 +10280,7 @@
         "zhHK": "何去何從", 
         "zhPY": "hé qù hé cóng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The first 何 means 'where?' so that 何去 means 'go where?' The second 何 means 'what?' The verb 从 here means 'do' so that 何从 means 'do what?' The meaning of the whole idiom is 'what path to take and what to do.'"
       }, 
       "examples": [
@@ -10302,7 +10302,7 @@
         "zhHK": "有求必應", 
         "zhPY": "yǒu qiú bì yòng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "求 means 'request,'必 means 'certainly,' and 应 means 'respond.' A literal translation of this idiom is 'if there is a request certainly respond,' with a freer translation being 'respond to every plea, grant every request.'"
       }, 
       "examples": [
@@ -10324,7 +10324,7 @@
         "zhHK": "杯弓蛇影", 
         "zhPY": "bēi gōng shé yĭng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "杯 means 'cup,'弓 means 'bow (as in archery) ,'蛇 means 'snake,' and 影 here means 'reflection.' A literal translation of the whole idiom is '(mistakenly to take the reflection of a) bow in one's cup as a snake's reflection,' with freer translations being 'entertain imaginary fears, very suspicious, paranoid.'"
       }, 
       "examples": [
@@ -10346,7 +10346,7 @@
         "zhHK": "風平浪靜", 
         "zhPY": "fēng píng làng jìng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of this idiom is 'wind calm waves still.' The meaning is 'calm and tranquil, uneventful.'"
       }, 
       "examples": [
@@ -10368,7 +10368,7 @@
         "zhHK": "逍遙法外", 
         "zhPY": "xiāo yáo fá wài"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "逍遥 means 'carefree and unencumbered' and 法外 means 'outside or beyond the law.' This idiom refers to those who have broken the law but remain unpunished and free. A freer translation is 'at large.'"
       }, 
       "examples": [
@@ -10390,7 +10390,7 @@
         "zhHK": "燈紅酒綠", 
         "zhPY": "dēng hōng jiǔ lǜ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation is 'lantern is red and wine is green.' The meaning is 'debauchey.'"
       }, 
       "examples": [
@@ -10412,7 +10412,7 @@
         "zhHK": "頂天立地", 
         "zhPY": "dĭng tiān lì dì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "The literal meaning is 'with one's head reaching the sky and one's feet on the ground.' A freer translation is 'having a heroic or indomitable spirit.'"
       }, 
       "examples": [
@@ -10434,7 +10434,7 @@
         "zhHK": "有鑒於此", 
         "zhPY": "yǒu jiàn yú cĭ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "鉴 here means 'experience,'于 means 'from,' and 此 means 'this.' A literal translation of the whole idiom is 'having the experience obtained from this.' Freer translations are 'taking this into consideration, in view of this.'"
       }, 
       "examples": [
@@ -10456,7 +10456,7 @@
         "zhHK": "義憤填膺", 
         "zhPY": "yì fèn tián yīng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "义 means 'righteousness,' 愤 means 'indignation,' 填 means 'fill,' and 膺 means 'breast, chest.' A literal translation of this idiom is 'righteous indignation fills the breast,' with a freer translation being 'filled with righteous indignation.'"
       }, 
       "examples": [
@@ -10478,7 +10478,7 @@
         "zhHK": "不可吿人", 
         "zhPY": "bù kě gào rén"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "告 means 'tell, inform.' The whole idiom means 'secretive, confidential, cannot bear the light of day.'"
       }, 
       "examples": [
@@ -10500,7 +10500,7 @@
         "zhHK": "指手畫腳", 
         "zhPY": "zhĭ shǒu huà jiǎo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "指 means 'point,' 画 means 'draw,' and 脚 means 'foot.' A literal translation is 'point with the hands and draw with the feet.' The meaning is 'gesticulate' or, by extension, 'make indiscrete remarks, interfere in the affairs of others, criticize.'"
       }, 
       "examples": [
@@ -10522,7 +10522,7 @@
         "zhHK": "簡明扼要", 
         "zhPY": "jiǎn míng è yào"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "扼 means 'grasp' and 要 means 'main points.' The meaning of the whole idiom is 'brief and to the point, clear and concise.'"
       }, 
       "examples": [
@@ -10544,7 +10544,7 @@
         "zhHK": "螳螂捕蟬，黄雀在後", 
         "zhPY": "táng láng bǔ chán, huáng què zài hòu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "螳螂 means 'mantis,'捕 means 'catch,'蝉 means 'cicada,' and 黄雀 is a type of finch. A literal translation of this idiom is 'mantis catches cicada, finch is behind,' with a freer translation being 'when a mantis catches a cicada, a finch is right behind.' By metaphor this refers to people who single-mindedly plot against someone else, unaware that another person is also plotting against them."
       }, 
       "examples": [
@@ -10566,7 +10566,7 @@
         "zhHK": "一舉兩得", 
         "zhPY": "yì jǔ liǎng dé"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "举 means 'action' and 得 means 'obtain.' A literal translation of this idiom is 'one action two acquisitions,' with a freer translation being 'kill two birds with one stone.'"
       }, 
       "examples": [
@@ -10588,7 +10588,7 @@
         "zhHK": "置之度外", 
         "zhPY": "zhì zhī dù wài"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "置 means 'put,'之 means 'it,' and 度 means 'consider.' A literal translation of the whole idiom is 'put it outside of one's consideration,' with a freer translation being 'disregard, give no thought to.'"
       }, 
       "examples": [
@@ -10610,7 +10610,7 @@
         "zhHK": "永垂不朽", 
         "zhPY": "yǒng chuí bù xiǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "永 means 'forever,' 垂 here means 'hand down,' and 朽 means 'decay.' A literal translation of the whole idiom is 'forever hand down and not decay.' Freer translations include 'immortal, live in one's heart forever.'"
       }, 
       "examples": [
@@ -10632,7 +10632,7 @@
         "zhHK": "美中不足", 
         "zhPY": "měi zhōng bù zú"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "美 means 'good,'中 means 'within,' andmeans 'insufficient.' A literal translation of the whole idiom is 'the insufficiency within the goodness.' In other words, something is overall quite good but there are still areas where improvement is needed. Freer English translations include 'a minor flaw in something otherwise perfect,' 'a small defect,' and 'what's missing is….'"
       }, 
       "examples": [
@@ -10654,7 +10654,7 @@
         "zhHK": "人聲鼎沸", 
         "zhPY": "rén shēng dĭng fèi"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "人声 means 'human voices,' a 鼎 is a kind of ancient pot, and 沸 means 'boil.'鼎沸 means 'water is boiling in a big pot, bubbling like in a cauldron.' The meaning of the whole idiom is 'noisy voices, a hubbub or confusion of voices.'"
       }, 
       "examples": [
@@ -10676,7 +10676,7 @@
         "zhHK": "天真爛漫", 
         "zhPY": "tiān zhēn làn màn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "天真 means 'innocent, naive' and 烂漫 means 'unaffected, innocent.' The meaning of the whole idiom is 'lively and cute, naive and unaffected, pure and natural.'"
       }, 
       "examples": [
@@ -10698,7 +10698,7 @@
         "zhHK": "就事論事", 
         "zhPY": "jiù shì lùn shì"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "就 means 'concerning, regarding, according to.' The meaning of the whole idiom is 'consider the matter in and of itself.'"
       }, 
       "examples": [
@@ -10720,7 +10720,7 @@
         "zhHK": "大手大腳", 
         "zhPY": "dà shǒu dà jiǎo"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "A literal translation of this idiom is 'big hands big feet.' The meaning is 'extravagant, wasteful.'"
       }, 
       "examples": [
@@ -10742,7 +10742,7 @@
         "zhHK": "漫山遍野", 
         "zhPY": "màn shān biàn yě"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "漫 means 'all over, everywhere,'遍 also means 'all over, everywhere,' and 野 means 'wilderness.' The literal meaning is 'all over the mountains and all over the wilderness,' with a freer translation being 'all over, in great numbers.'"
       }, 
       "examples": [
@@ -10764,7 +10764,7 @@
         "zhHK": "刻舟求劍", 
         "zhPY": "kè zhōu qiú jiàn"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "刻 means 'carve,'舟 means 'boat,'求 means 'seek,' and 剑 means 'sword.' A literal translation of the whole idiom is 'carve marks on a boat (to serve as a reminder of where to) seek the sword (that fell overboard) .' This is a metaphor for 'not know how to adapt to changed conditions,' 'act foolishly without regard to changed circumstances,' or 'incorrect or inappropriate method for solving a problem.'"
       }, 
       "examples": [
@@ -10786,7 +10786,7 @@
         "zhHK": "生龍活虎", 
         "zhPY": "shěng lóng huó hǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "龙 means 'dragon' and 虎 means 'tiger.' A literal translation is 'live dragon live tiger.' The extended meaning is 'lively and vigorous, bursting with energy.'"
       }, 
       "examples": [
@@ -10808,7 +10808,7 @@
         "zhHK": "不甘示弱", 
         "zhPY": "bù gān shì ruò"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "不甘 means 'not resigned to, not reconciled to, unwilling to,'示 means 'show,' and 弱 means 'weak.' A literal translation of the whole idiom is 'unwilling to show weakness (in comparison with others) ,' with a freer translation being 'unwilling to be outdone.'"
       }, 
       "examples": [
@@ -10830,7 +10830,7 @@
         "zhHK": "循循善誘", 
         "zhPY": "xú xú shàn yòu"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "循循 means 'in proper order,' 善 means 'well,' and 诱 means 'guide.' A literal translation is 'in proper order good at guiding others.' This idiom is often translated as 'good at guiding others, teach in a systematic and patient manner.'"
       }, 
       "examples": [
@@ -10852,7 +10852,7 @@
         "zhHK": "萬家燈火", 
         "zhPY": "wàn jiā dēng huǒ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "万家 means 'ten thousand families' or 'very many families,' while 灯火 means 'lights.' A literal translation is 'ten thousand families' lamps.' This often refers to a city that is ablaze with lights."
       }, 
       "examples": [
@@ -10874,7 +10874,7 @@
         "zhHK": "執迷不悟", 
         "zhPY": "zhí mí bú wù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "执 means 'persist,' 迷 means 'confused,' and 要 means 'realize, understand.' A literal translation is 'persist in being confused and not realize it.' A freer translation is 'persist in one's errors and refuse to come to one's senses.'"
       }, 
       "examples": [
@@ -10896,7 +10896,7 @@
         "zhHK": "千瘡百孔", 
         "zhPY": "qiān chuāng bǎi kǒng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "疮 means 'wound' and 孔 means 'hole.' The literal meaning is 'a thousand wounds and a hundred holes,' with a freer translation being 'riddled with gaping wounds, afflicted with any disorder imaginable.' This idiom is also used metaphorically to mean 'full of flaws or shortcomings.'"
       }, 
       "examples": [
@@ -10918,7 +10918,7 @@
         "zhHK": "懸崖勒馬", 
         "zhPY": "xuán yá lè mǎ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "悬 means 'hang,' 崖 means 'precipice,'悬崖 means 'sheer cliff,' and 勒 means 'rein in.' A literal translation is 'rein in a horse at the edge of a precipice,' with the extended meaning being 'realize and escape from danger just in the nick of time.'"
       }, 
       "examples": [
@@ -10940,7 +10940,7 @@
         "zhHK": "半斤八兩", 
         "zhPY": "bàn jīn bā liǎng"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "半 means 'half,' 斤 is a unit of weight often translated as 'catty,' and 两 is another unit of weight often translated as 'ounce.' The literal translation of this idiom is 'half a catty (is the equivalent of) eight ounces,' with freer translations being 'six of one and half a dozen of the other, tweedledum and tweedledee, the same.'"
       }, 
       "examples": [
@@ -10962,7 +10962,7 @@
         "zhHK": "共襄盛舉", 
         "zhPY": "gòng xiāng shèng jǔ"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "共 means 'together，' 襄 means 'help，' 盛 means 'great，' and 举 means 'undertaking.' A literal translation is 'together help each other in great undertakings，' with a freer translation being 'join together to accomplish a great task.'"
       }, 
       "examples": [
@@ -10984,7 +10984,7 @@
         "zhHK": "五十步笑百步", 
         "zhPY": "wǔ shí bù xiào bǎi bù"
       }, 
-      "translations": {
+      "definition": {
         "enGB": "步 means 'pace，step' and 笑 means 'laugh at.' A literal translation of the whole idiom is '(a man who retreated only) fifty paces laughed at (another man who retreated) a hundred paces.' This means 'disparage someone else for essentially the same thing you yourself have done.'"
       }, 
       "examples": [

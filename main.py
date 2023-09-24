@@ -114,8 +114,12 @@ for entry in entry_list:
         },
     ]
     
+    # TODO: scrap extra details - usage, synonyms, antonyms, etc.
     for i in range(8, len(entry)):
         pass
+    
+    # TODO: test all basic fields are populated
+    
     
     chengyu_list['entries'].append(current_entry)
 
